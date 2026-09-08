@@ -3,100 +3,115 @@ import psycopg2
 from datetime import datetime
 from psycopg2.extras import RealDictCursor
 
-OUTPUT_FILE = "feed.json"
+OUTPUT_FILE = "feed_ujicoba.json"
 def waze():
     # conn = psycopg2.connect('postgresql://analytics:An4lytik009@192.168.3.89:5432/analytics')
     conn = psycopg2.connect('postgresql://jaki_data:V6nPcxt85y6tnyDa2hfXNOnmf@192.168.3.43:5432/jakiv2_peta')
     query = r"""
-    with data_bersih as (
-                            select a.id, a."name" as nama, b."name" as nama_kategori, a.maps_id, a.address,  
-                            a."location", a.created_at,
-                            split_part(replace(replace(a."location", 'POINT(', ''), ')', ''), ' ', 1)::numeric AS lng,
-                            split_part(replace(replace(a."location", 'POINT(', ''), ')', ''), ' ', 2)::numeric AS lat,
-                            a.description, 
-                            TRIM(substring(a.description FROM '<b>1\. Jenis Pekerjaan:</b>(.*?)<br>')) AS jenis_pekerjaan,
-                                TRIM(substring(a.description FROM '<b>2\. Lokasi:</b>(.*?)<br>')) AS lokasi,
-                                TRIM(substring(a.description FROM '<b>4\. Potensi dampak:</b>(.*?)<br>')) AS potensi_dampak,
-                                REPLACE(TRIM(substring(a.description FROM '<b>5\. Penanggung Jawab:</b>(.*)')), '<br>', ' ') AS penanggung_jawab,
-                            a.phone_number, a.array_image_url,
-                                TRIM(substring(a.description FROM '<b>3\. Jadwal Pekerjaan:</b>(.*?)<br>')) AS jadwal_pekerjaan
-                            from markers a left join maps b on a.maps_id = b.id
-                            where b."name" ilike '%konstruksi%'), 
-            data_bersih2 as (
-                            select *, 
-                            case 
-                                when jadwal_pekerjaan ilike '%tbu%' then null
-                            else jadwal_pekerjaan
-                                end as jadwal_pekerjaans
-                            from data_bersih ),	
-            data_bersih3 as (
-                            select *, 
-                                TRIM(SPLIT_PART(jadwal_pekerjaans, ' s/d ', 1)) AS start_date,
-                                TRIM(SPLIT_PART(jadwal_pekerjaans, ' s/d ', 2)) AS end_date
-                            from data_bersih2)
-            ,data_bersih4 AS (
-                            SELECT *,
-                                -- 1. Ubah spasi dan garis miring menjadi strip (-), lalu terjemahkan teks bulan ke angka
-                                REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(
-                                REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(
-                                    REGEXP_REPLACE(LOWER(start_date), '[\s/]+', '-', 'g'),
-                                '-januari-', '-01-'), '-februari-', '-02-'), '-maret-', '-03-'),
-                                '-april-', '-04-'), '-mei-', '-05-'), '-juni-', '-06-'),
-                                '-juli-', '-07-'), '-agustus-', '-08-'), '-september-', '-09-'),
-                                '-oktober-', '-10-'), '-november-', '-11-'), '-desember-', '-12-') AS start_date2, 
-                                REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(
-                                REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(
-                                    REGEXP_REPLACE(LOWER(end_date), '[\s/]+', '-', 'g'),
-                                '-januari-', '-01-'), '-februari-', '-02-'), '-maret-', '-03-'),
-                                '-april-', '-04-'), '-mei-', '-05-'), '-juni-', '-06-'),
-                                '-juli-', '-07-'), '-agustus-', '-08-'), '-september-', '-09-'),
-                                '-oktober-', '-10-'), '-november-', '-11-'), '-desember-', '-12-') AS end_date2 
-                            FROM data_bersih3)
-            , data_bersih5 as (
-                                SELECT *,
-                                CASE 
-                                        WHEN start_date ~* '^\d{1,2}[\s/-]+[a-z0-9]+[\s/-]+\d{2,4}$' THEN
-                                            LPAD(SPLIT_PART(start_date2, '-', 1), 2, '0') || '-' ||
-                                            LPAD(SPLIT_PART(start_date2, '-', 2), 2, '0') || '-' ||
-                                            CASE 
-                                                WHEN LENGTH(SPLIT_PART(start_date2, '-', 3)) = 2 THEN '20' || SPLIT_PART(start_date2, '-', 3)
-                                                ELSE SPLIT_PART(start_date2, '-', 3)
-                                            end 
-                                        ELSE 
-                                            start_date
-                                    END AS start_date3,
-                                    CASE 
-                                        WHEN end_date ~* '^\d{1,2}[\s/-]+[a-z0-9]+[\s/-]+\d{2,4}$' THEN
-                                            LPAD(SPLIT_PART(end_date2, '-', 1), 2, '0') || '-' ||
-                                            LPAD(SPLIT_PART(end_date2, '-', 2), 2, '0') || '-' ||
-                                            CASE 
-                                                WHEN LENGTH(SPLIT_PART(end_date2, '-', 3)) = 2 THEN '20' || SPLIT_PART(end_date2, '-', 3)
-                                                ELSE SPLIT_PART(end_date2, '-', 3)
-                                            end 
-                                        ELSE 
-                                            end_date
-                                    END AS end_date3,
-                                TRIM(
-                    -- 3. Hapus sisa tag HTML seperti <b> dan </b>
-                    REGEXP_REPLACE(
-                        -- 2. Ubah <br> dan spasi di sekitarnya menjadi baris baru (Enter)
-                        REGEXP_REPLACE(
-                            -- 1. Buang semua teks berulang setelah tanda pipa (|)
-                            SPLIT_PART(description, '|', 1), 
-                        '\s*<br>\s*', E'\n', 'gi'), 
-                    '<[^>]+>', '', 'g')
-                ) AS deskripsi
-                                    FROM data_bersih4)
-            select 
---			count(*)
-            id, nama as nama_lokasi, maps_id, "location" as lokasi ,lng, lat,  address, phone_number, array_image_url, deskripsi, jenis_pekerjaan, lokasi, potensi_dampak, 
-            penanggung_jawab, phone_number, start_date3 as start_date, end_date3 as end_date, created_at
---            , TO_DATE(end_date3, 'DD-MM-YYYY') as end_date_to
-            from data_bersih5
- 			where 
- 			(end_date3 !~ '[A-Za-z]')
- 			and
- 			TO_DATE(end_date3, 'DD-MM-YYYY') >= NOW()::date ;
+                with data_bersih as (
+                                            select a.id, a."name" as nama, b."name" as nama_kategori, a.maps_id, a.address,  
+                                            a."location", a.created_at,
+                                            split_part(replace(replace(a."location", 'POINT(', ''), ')', ''), ' ', 1)::numeric AS lng,
+                                            split_part(replace(replace(a."location", 'POINT(', ''), ')', ''), ' ', 2)::numeric AS lat,
+                                            a.description, 
+                                            TRIM(substring(a.description FROM '<b>1\. Jenis Pekerjaan:</b>(.*?)<br>')) AS jenis_pekerjaan,
+                                                TRIM(substring(a.description FROM '<b>2\. Lokasi:</b>(.*?)<br>')) AS lokasi,
+                                                TRIM(substring(a.description FROM '<b>4\. Potensi dampak:</b>(.*?)<br>')) AS potensi_dampak,
+                                                REPLACE(TRIM(substring(a.description FROM '<b>5\. Penanggung Jawab:</b>(.*)')), '<br>', ' ') AS penanggung_jawab,
+                                            a.phone_number, a.array_image_url,
+                                                TRIM(substring(a.description FROM '<b>3\. Jadwal Pekerjaan:</b>(.*?)<br>')) AS jadwal_pekerjaan
+                                            from markers a left join maps b on a.maps_id = b.id
+                                            where b."name" ilike '%konstruksi%'), 
+                            data_bersih2 as (
+                                            select *, 
+                                            case 
+                                                when jadwal_pekerjaan ilike '%tbu%' then null
+                                            else jadwal_pekerjaan
+                                                end as jadwal_pekerjaans
+                                            from data_bersih ),	
+                            data_bersih3 as (
+                                            select *, 
+                                                TRIM(SPLIT_PART(jadwal_pekerjaans, ' s/d ', 1)) AS start_date,
+                                                TRIM(SPLIT_PART(jadwal_pekerjaans, ' s/d ', 2)) AS end_date
+                                            from data_bersih2)
+                            ,data_bersih4 AS (
+                                            SELECT *,
+                                                -- 1. Ubah spasi dan garis miring menjadi strip (-), lalu terjemahkan teks bulan ke angka
+                                                REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(
+                                                REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(
+                                                    REGEXP_REPLACE(LOWER(start_date), '[\s/]+', '-', 'g'),
+                                                '-januari-', '-01-'), '-februari-', '-02-'), '-maret-', '-03-'),
+                                                '-april-', '-04-'), '-mei-', '-05-'), '-juni-', '-06-'),
+                                                '-juli-', '-07-'), '-agustus-', '-08-'), '-september-', '-09-'),
+                                                '-oktober-', '-10-'), '-november-', '-11-'), '-desember-', '-12-') AS start_date2, 
+                                                REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(
+                                                REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(
+                                                    REGEXP_REPLACE(LOWER(end_date), '[\s/]+', '-', 'g'),
+                                                '-januari-', '-01-'), '-februari-', '-02-'), '-maret-', '-03-'),
+                                                '-april-', '-04-'), '-mei-', '-05-'), '-juni-', '-06-'),
+                                                '-juli-', '-07-'), '-agustus-', '-08-'), '-september-', '-09-'),
+                                                '-oktober-', '-10-'), '-november-', '-11-'), '-desember-', '-12-') AS end_date2 
+                                            FROM data_bersih3)
+                            , data_bersih5 as (
+                                                SELECT *,
+                                                CASE 
+                                                        WHEN start_date ~* '^\d{1,2}[\s/-]+[a-z0-9]+[\s/-]+\d{2,4}$' THEN
+                                                            LPAD(SPLIT_PART(start_date2, '-', 1), 2, '0') || '-' ||
+                                                            LPAD(SPLIT_PART(start_date2, '-', 2), 2, '0') || '-' ||
+                                                            CASE 
+                                                                WHEN LENGTH(SPLIT_PART(start_date2, '-', 3)) = 2 THEN '20' || SPLIT_PART(start_date2, '-', 3)
+                                                                ELSE SPLIT_PART(start_date2, '-', 3)
+                                                            end 
+                                                        ELSE 
+                                                            start_date
+                                                    END AS start_date3,
+                                                    CASE 
+                                                        WHEN end_date ~* '^\d{1,2}[\s/-]+[a-z0-9]+[\s/-]+\d{2,4}$' THEN
+                                                            LPAD(SPLIT_PART(end_date2, '-', 1), 2, '0') || '-' ||
+                                                            LPAD(SPLIT_PART(end_date2, '-', 2), 2, '0') || '-' ||
+                                                            CASE 
+                                                                WHEN LENGTH(SPLIT_PART(end_date2, '-', 3)) = 2 THEN '20' || SPLIT_PART(end_date2, '-', 3)
+                                                                ELSE SPLIT_PART(end_date2, '-', 3)
+                                                            end 
+                                                        ELSE 
+                                                            end_date
+                                                    END AS end_date3,
+                                                TRIM(
+                                    -- 3. Hapus sisa tag HTML seperti <b> dan </b>
+                                    REGEXP_REPLACE(
+                                        -- 2. Ubah <br> dan spasi di sekitarnya menjadi baris baru (Enter)
+                                        REGEXP_REPLACE(
+                                            -- 1. Buang semua teks berulang setelah tanda pipa (|)
+                                            SPLIT_PART(description, '|', 1), 
+                                        '\s*<br>\s*', E'\n', 'gi'), 
+                                    '<[^>]+>', '', 'g')
+                                ) AS deskripsi
+                                                    FROM data_bersih4)
+                            select 
+                --			count(*)
+                            id, nama as nama_lokasi, maps_id, "location" as lokasi ,lng, lat,  address, phone_number, array_image_url, deskripsi, 
+                REPLACE(
+                        REPLACE(
+                            REGEXP_REPLACE(
+                                deskripsi,
+                                '(^|[[:space:]])[1-5]\.[[:space:]]*',
+                                '\1',
+                                'g'
+                            ),
+                            'Jadwal Pekerjaan:',
+                            'Jadwal:'
+                        ),
+                        'Potensi dampak:',
+                        'Dampak:'
+                    ) AS deskripsi_clean     
+                            ,jenis_pekerjaan, lokasi, potensi_dampak, 
+                            penanggung_jawab, phone_number, start_date3 as start_date, end_date3 as end_date, created_at
+                --            , TO_DATE(end_date3, 'DD-MM-YYYY') as end_date_to
+                            from data_bersih5
+                            where 
+                            (end_date3 !~ '[A-Za-z]')
+                            and
+                            TO_DATE(end_date3, 'DD-MM-YYYY') >= NOW()::date ;
             """
     cursor = conn.cursor(cursor_factory=RealDictCursor)
     cursor.execute(query)
@@ -245,7 +260,7 @@ def create_incident(row):
     # --------------------------------------------------------
     # DESCRIPTION
     # --------------------------------------------------------
-    description = row["deskripsi"]
+    description = row["deskripsi_clean"]
 
     # --------------------------------------------------------
     # DATE
