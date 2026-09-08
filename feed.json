@@ -1035,138 +1035,6 @@
       "end_date": "2026-09-26T00:00:00+07:00"
     },
     {
-      "id": "7af14186-ad70-437c-a425-9dab7e66703e",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jalan Tanjung Pura\n3. Jadwal Pekerjaan: 26-06-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jalan Tanjung Pura",
-      "polyline": "-6.1326930 106.6915280",
-      "start_date": "2026-06-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "831686f1-4a54-4da1-b4be-a96930c4d4b3",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jalan Satu Maret\n3. Jadwal Pekerjaan: 26-06-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jalan Satu Maret",
-      "polyline": "-6.1268917 106.7045668",
-      "start_date": "2026-06-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "ec8a630f-2f71-4c62-8e4c-c9c7650c9495",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jalan Kumbang\n3. Jadwal Pekerjaan: 26-06-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jalan Kumbang",
-      "polyline": "-6.1392097 106.6957118",
-      "start_date": "2026-06-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "60968e79-ad8e-4da9-9460-11afd77f05d9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jl.Semanan raya\n3. Jadwal Pekerjaan: 26-05-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jl.Semanan raya",
-      "polyline": "-6.1570060 106.7057580",
-      "start_date": "2026-05-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "69541362-726d-4d8c-8a9d-357d24a1cdb2",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jl.Inspeksi\n3. Jadwal Pekerjaan: 26-05-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jl.Inspeksi",
-      "polyline": "-6.1567210 106.7054740",
-      "start_date": "2026-05-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "5aeec7b1-cc3e-43ab-b815-f347f9893f6a",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jl.Pantai Mutiara Regatta\n3. Jadwal Pekerjaan: 26-05-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jl.Pantai Mutiara Regatta",
-      "polyline": "-6.1017796 106.7904981",
-      "start_date": "2026-05-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "d71e62bf-4ef2-469d-9c65-c35add01b9f9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jl.Pantai Mutiara Regatta U\n3. Jadwal Pekerjaan: 26-05-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jl.Pantai Mutiara Regatta U",
-      "polyline": "-6.0954630 106.7922756",
-      "start_date": "2026-05-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "e5ea5209-c7df-420a-beb7-1f2cbad3a0cd",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jl.Pantai Mutiara T\n3. Jadwal Pekerjaan: 26-05-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jl.Pantai Mutiara T",
-      "polyline": "-6.0991809 106.7913053",
-      "start_date": "2026-05-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "088ee24c-32cd-45d3-86a8-14199dbb64ab",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jl.Pantai Mutiara\n3. Jadwal Pekerjaan: 26-05-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jl.Pantai Mutiara",
-      "polyline": "-6.1054668 106.7936597",
-      "start_date": "2026-05-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "46df7f59-d6de-4ee7-906b-c6924ab2fa14",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jl.Pantai Mutiara S\n3. Jadwal Pekerjaan: 26-05-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jl.Pantai Mutiara S",
-      "polyline": "-6.1020503 106.7916563",
-      "start_date": "2026-05-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "045bc12b-cae1-468a-b23e-c810a2580cff",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jl.Pantai Mutiara Regatta R\n3. Jadwal Pekerjaan: 26-05-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jl.Pantai Mutiara Regatta R",
-      "polyline": "-6.1017905 106.7905024",
-      "start_date": "2026-05-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "cfffa694-744f-47e0-9fa8-273f8d5ea9b8",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Jl.Pluit Samudra 1\n3. Jadwal Pekerjaan: 26-05-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jl.Pluit Samudra 1",
-      "polyline": "-6.1105889 106.7936807",
-      "start_date": "2026-05-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
       "id": "2adcc37c-3948-4819-b811-0d197b55c9fc",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -2421,17 +2289,6 @@
       "end_date": "2026-09-26T00:00:00+07:00"
     },
     {
-      "id": "999a6c99-85de-46b9-a7a5-491fc4d674e1",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pembangunan Jembatan Penyeberangan Orang Pejaten Jalan Warung Jati Barat\n2. Lokasi: Jalan Warung Jati Barat\n3. Jadwal Pekerjaan: 05-12-2026 s/d 12-07-2026\n4. Potensi dampak: Terdapat potensi yang menimbulkan kemacetan\n5. Penanggung Jawab: Dinas Bina Marga Provinsi DKI Jakarta, Bidang Prasarana dan Sarana Utilitas Kota",
-      "street": "Jalan Warung Jati Barat",
-      "polyline": "-6.2807470 106.8283670",
-      "start_date": "2026-12-05T00:00:00+07:00",
-      "end_date": "2026-07-12T00:00:00+07:00"
-    },
-    {
       "id": "6e7a32b1-f154-4264-963a-2307692c313c",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -2652,17 +2509,6 @@
       "end_date": "2026-12-11T00:00:00+07:00"
     },
     {
-      "id": "8a4be525-28f2-480e-9e72-9b8b14ab3071",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pembangunan / Peningkatan Kualitas Pencahayaan Kota Mendukung Penerangan Jalan Umum Di Jak Pus Zona 3\n2. Lokasi: JL. Lapangan Banteng\n3. Jadwal Pekerjaan: 08-05-2026 s/d 11-02-2026\n4. Potensi dampak: Potensi gangguan terhadap pejalan kaki akibat galian pada trotoar\n5. Penanggung Jawab: Dinas Bina Marga Provinsi DKI Jakarta, Bidang PJSU",
-      "street": "JL. Lapangan Banteng",
-      "polyline": "-6.1719710 106.8347760",
-      "start_date": "2026-05-08T00:00:00+07:00",
-      "end_date": "2026-02-11T00:00:00+07:00"
-    },
-    {
       "id": "dda691e5-324c-41e7-a7b3-92a92dd4937a",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -2707,17 +2553,6 @@
       "end_date": "2026-11-04T00:00:00+07:00"
     },
     {
-      "id": "96eb7f77-dc5c-488a-a183-802316b6de38",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan/Jembatan/FO/Underpass di Provinsi DKI Jakarta (Pekerjaan Beton Fast Track 8 Jam Paket 4 Tahun 2026)\n2. Lokasi: Jl. Plumpang Semper\nJl. Cakung Cilincing\n3. Jadwal Pekerjaan: 24-06-2026 s/d 22-08-2026\n4. Potensi dampak: Berpotensi menimbulkan kemacetan lalu lintas dan gangguan terhadap pejalan kaki\n5. Penanggung Jawab: Dinas Bina Marga Provinsi DKI Jakarta, Bidang JANTAN",
-      "street": "Jl. Plumpang Semper",
-      "polyline": "-6.1306048 106.9122160",
-      "start_date": "2026-06-24T00:00:00+07:00",
-      "end_date": "2026-08-22T00:00:00+07:00"
-    },
-    {
       "id": "2781b666-d707-4baa-8204-1ec5c43e6e72",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -2740,17 +2575,6 @@
       "end_date": "2026-09-17T00:00:00+07:00"
     },
     {
-      "id": "942404e7-a92a-4dd4-ad24-e3e495e2fff6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan/Jembatan/FO/Underpass di Provinsi DKI Jakarta (Pekerjaan Hotmix Paket 5 Tahun 2026)\n2. Lokasi: Jl. Raya Cilandak KKO\n3. Jadwal Pekerjaan: 07-02-2026 s/d 30-08-2026\n4. Potensi dampak: Berpotensi menimbulkan kemacetan lalu lintas dan gangguan terhadap pejalan kaki\n5. Penanggung Jawab: Dinas Bina Marga Provinsi DKI Jakarta, Bidang JANTAN",
-      "street": "Jl. Raya Cilandak KKO",
-      "polyline": "-6.2932566 106.8164073",
-      "start_date": "2026-02-07T00:00:00+07:00",
-      "end_date": "2026-08-30T00:00:00+07:00"
-    },
-    {
       "id": "553ac403-f300-48b3-9e7f-486dbacb0493",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -2760,556 +2584,6 @@
       "polyline": "-6.2547730 106.7973420",
       "start_date": "2026-07-22T00:00:00+07:00",
       "end_date": "2026-09-19T00:00:00+07:00"
-    },
-    {
-      "id": "2e2af95c-8647-488d-ae15-2e4340817746",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan/Jembatan/FO/Underpass di Provinsi DKI Jakarta (Pekerjaan Hotmix Paket 7 Tahun 2026)\n2. Lokasi: Jl. 1. DPR MPR\nJl. Gatot Subroto\nJl. Pintu Besar Utara\n3. Jadwal Pekerjaan: 07-08-2026 s/d 09-05-2026\n4. Potensi dampak: Berpotensi menimbulkan kemacetan lalu lintas dan gangguan terhadap pejalan kaki\n5. Penanggung Jawab: Dinas Bina Marga Provinsi DKI Jakarta, Bidang JANTAN",
-      "street": "Jl. 1. DPR MPR",
-      "polyline": "-6.2064444 106.8020843",
-      "start_date": "2026-08-07T00:00:00+07:00",
-      "end_date": "2026-05-09T00:00:00+07:00"
-    },
-    {
-      "id": "f0872e1f-6e38-4d5c-a47a-f064b650776d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan/Jembatan/FO/Underpass di Provinsi DKI Jakarta (Pekerjaan Beton Fast Track 8 Jam Paket 1 Tahun 2026)\n2. Lokasi: Jl. Jalan Enggano depan RS IHC arah Tanjung Priok ( berjalan)\n3. Jadwal Pekerjaan: 08-07-2026 s/d 09-07-2026\n4. Potensi dampak: Berpotensi menimbulkan kemacetan lalu lintas dan gangguan terhadap pejalan kaki\n5. Penanggung Jawab: Dinas Bina Marga Provinsi DKI Jakarta, Bidang JANTAN",
-      "street": "Jl. Jalan Enggano depan RS IHC arah Tanjung Priok ( berjalan)",
-      "polyline": "-6.1097940 106.8895479",
-      "start_date": "2026-07-08T00:00:00+07:00",
-      "end_date": "2026-07-09T00:00:00+07:00"
-    },
-    {
-      "id": "dc224e76-3e61-41cf-b421-8dd81348933f",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan/Jembatan/FO/Underpass di Provinsi DKI Jakarta (Pekerjaan Hotmix Paket 14 Tahun 2026)\n2. Lokasi: - Jl. Moh Kahfi I\n- Jl. Bekasi Raya\n3. Jadwal Pekerjaan: 08-07-2026 s/d 10-05-2026\n4. Potensi dampak: Berpotensi menimbulkan kemacetan lalu lintas dan gangguan terhadap pejalan kaki\n5. Penanggung Jawab: Dinas Bina Marga Provinsi DKI Jakarta, Bidang JANTAN",
-      "street": "- Jl. Moh Kahfi I",
-      "polyline": "-6.2118070 106.9010489",
-      "start_date": "2026-07-08T00:00:00+07:00",
-      "end_date": "2026-05-10T00:00:00+07:00"
-    },
-    {
-      "id": "0a854cf8-6626-43f6-b12c-b571f5f126ce",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Cilincing Baru V RW 02 Cilincing\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Cilincing Baru V RW 02 Cilincing",
-      "polyline": "-6.1033333 106.9312500",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "5254397b-0997-444c-810a-9073f19641d0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pinang Sari 5 RT 03\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pinang Sari 5 RT 03",
-      "polyline": "-6.1503611 106.9506944",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "fbbadc32-0799-49d9-9fa5-d601c143ecde",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pinus 1 RT 05\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pinus 1 RT 05",
-      "polyline": "-6.1511389 106.9508889",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "d3252373-0fd1-43fb-a40d-2cf963061972",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pinus 3\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pinus 3",
-      "polyline": "-6.1506389 106.9515000",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "dc27df4b-5d72-4b25-becf-200397d68240",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pinang Sari 2 RT 06 dan RT 09\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pinang Sari 2 RT 06 dan RT 09",
-      "polyline": "-6.1511944 106.9502500",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "e954bc85-c16a-4562-ab2c-c7758b5aec1f",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pinang Sari\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pinang Sari",
-      "polyline": "-6.1478611 106.9506111",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "8f288fad-5f55-4dd3-9457-91987b0eb8d0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Permata Hijau Raya\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Permata Hijau Raya",
-      "polyline": "-6.1482778 106.9496667",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "acbe5858-3240-4b64-8706-5e1a8ac508f6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Malaka Jaya 5A\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Malaka Jaya 5A",
-      "polyline": "-6.1460556 106.9526389",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "86559de1-a981-4fd4-9258-9b18f6f2b8cc",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Tidore RT 009\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Tidore RT 009",
-      "polyline": "-6.1667222 106.8061667",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "b4a79bcd-3172-4f9a-af1e-98fe7d4ccb70",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa\n2. Lokasi: Gg. Elektro, Muara Baru\n3. Jadwal Pekerjaan: 26-06-2026 s/d 26-08-2026\n4. Potensi dampak: menambah beban lalu lintas\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Gg. Elektro, Muara Baru",
-      "polyline": "-6.1143224 106.8028717",
-      "start_date": "2026-06-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
-      "id": "ff09534b-b494-46e6-b16d-eb8b7322e178",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Sriwijaya\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Sriwijaya",
-      "polyline": "-6.1558333 106.9236667",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "ba3cc90d-1010-4557-9287-970428312528",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Teluk Lada\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Teluk Lada",
-      "polyline": "-6.1581389 106.9216944",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "916be19f-9b13-444f-85e5-e02f07b5006b",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Teluk Bayur\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Teluk Bayur",
-      "polyline": "-6.1590833 106.9223333",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "c6070fa0-4c17-49ee-a44d-8524c29a09af",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Tanjung I - II &amp; Jl. Beruang 5\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Tanjung I - II &amp; Jl. Beruang 5",
-      "polyline": "-6.1387778 106.9193611",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "3fd0ef54-6f89-46aa-9bd8-690d2add84ee",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Cempaka II\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Cempaka II",
-      "polyline": "-6.1408056 106.9205000",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "79321550-e3c9-4461-9ec0-3261e5110af6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Cempaka I\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Cempaka I",
-      "polyline": "-6.1404722 106.9206111",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "5719f4d0-ebf2-44d6-8247-dac6f76742f9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pelepah Asri III\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pelepah Asri III",
-      "polyline": "-6.1442222 106.9070556",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "263044eb-7e01-4c0c-9ba7-e94f505f71c8",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pelepah Asri II\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pelepah Asri II",
-      "polyline": "-6.1440278 106.9089167",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "9efb2b74-2a52-4319-9973-41c0abb90394",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pelepah Asri I\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pelepah Asri I",
-      "polyline": "-6.1447778 106.9091389",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "03a07c08-15ea-41d5-b501-37a9c05f6332",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Kelapa Hibrida III\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Kelapa Hibrida III",
-      "polyline": "-6.1471111 106.9107778",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "0a08c5bc-155b-48ea-8a14-be8cc7606ee4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Kelapa Hibrida V\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Kelapa Hibrida V",
-      "polyline": "-6.1463056 106.9107778",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "33b1ce42-6aab-4d25-9b2e-7cc27a060681",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Kelapa Hibrida VI\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Kelapa Hibrida VI",
-      "polyline": "-6.1459722 106.9107778",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "85bb3424-71ca-4d5b-bc5c-1e1f8456dbe5",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Kelapa Hibrida VII\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Kelapa Hibrida VII",
-      "polyline": "-6.1456111 106.9108056",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "53184432-d84d-4982-a350-4c8edc9322b8",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Kelapa Hibrida VIII\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Kelapa Hibrida VIII",
-      "polyline": "-6.1452500 106.9109444",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "0f1ee539-b127-48f1-942b-0437131d3ff2",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Kelapa Hibrida IX\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Kelapa Hibrida IX",
-      "polyline": "-6.1449167 106.9108056",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "ee063b3c-90fa-43d9-acf3-6a804d181c53",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pluit Karang Asri I (sisi timur)\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pluit Karang Asri I (sisi timur)",
-      "polyline": "-6.1148056 106.7717500",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "2d469f21-d04e-4421-b279-ab719c3868a7",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pluit Karang Asri\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pluit Karang Asri",
-      "polyline": "-6.1153889 106.7718056",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "e38bd72a-4d89-467c-a891-177f779145c7",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pluit Karang Asri II (sisi barat)\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pluit Karang Asri II (sisi barat)",
-      "polyline": "-6.1143889 106.7720556",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "61148a1d-f8fe-4973-8815-ab670f937749",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pluit Karang Asri III\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pluit Karang Asri III",
-      "polyline": "-6.1139167 106.7720000",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "3c70624a-0f5e-4bc5-abf2-e997954061dc",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pluit Karang Asri V\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pluit Karang Asri V",
-      "polyline": "-6.1133056 106.7723611",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "970097b6-8a2b-4c1c-bb4b-fcdc4656ca19",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pluit Karang Asri VI\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pluit Karang Asri VI",
-      "polyline": "-6.1130000 106.7725278",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "72f83477-b178-4669-b7dc-924c3fda17c1",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pluit Karang Asri VII\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pluit Karang Asri VII",
-      "polyline": "-6.1126111 106.7728056",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "5e25e6c1-24df-4512-a83e-006103ccafa4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Pluit Karang Asri Selatan\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas dan pejalan kaki\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Pluit Karang Asri Selatan",
-      "polyline": "-6.1225556 106.7761111",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "bf67a183-21c5-45f7-8b39-f2a77432a4b5",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Sepat\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Sepat",
-      "polyline": "-6.1325278 106.7806944",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "a3b56794-a4a1-4d09-87c5-fc3b50abba72",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Lundu\n3. Jadwal Pekerjaan: 10 Juli 2026 s/d 07-09-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Lundu",
-      "polyline": "-6.1324444 106.7794167",
-      "start_date": "2026-07-10T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "8f6af817-d85f-461d-b97d-6d2ed8b96780",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Agung Permai (16, 17, 18, 21, 23, 24, 25, 28)\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Agung Permai (16, 17, 18, 21, 23, 24, 25, 28)",
-      "polyline": "-6.1413056 106.8648889",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "c21b7c7f-03c2-4bba-8be5-f7550c586d0c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Agung Tengah 3\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Agung Tengah 3",
-      "polyline": "-6.1457222 106.8671389",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "5f29a11d-0713-45b0-8ccb-f1d4f6ca148b",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Danau Agung 20\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Danau Agung 20",
-      "polyline": "-6.1459167 106.8656667",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "8f9243e6-e4ce-4d86-a989-aaa6f974100c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Agung Tengah 14\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Agung Tengah 14",
-      "polyline": "-6.1443333 106.8720278",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "af84628e-6573-4722-91e6-4b8ee0a06744",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Danau Agung 8\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Danau Agung 8",
-      "polyline": "-6.1458889 106.8619722",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "392a9d1b-e87b-46c5-b342-295c6a7fc0c6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Jati IV\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Jati IV",
-      "polyline": "-6.1284167 106.8904444",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "22b2f84a-06b7-4805-a13a-4dcd3aa3a0e6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Jati V\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Jati V",
-      "polyline": "-6.1297500 106.8910556",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "5c5f4407-5fd5-49cd-8b5d-789ea5e5a49b",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Sungai Bambu\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Sungai Bambu",
-      "polyline": "-6.1290833 106.8875833",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "fc624dac-d52e-40f2-afcc-dfa618898e27",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Swasembada Timur XVI RT 07\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Swasembada Timur XVI RT 07",
-      "polyline": "-6.1205556 106.8893611",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "c04abb74-59a8-4ba5-b72f-0ece8ee32344",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Benteng Mas\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Benteng Mas",
-      "polyline": "-6.1523611 106.8707500",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "a008592d-c1f5-47b5-94de-4f11edc58ef4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Warakas V (samping tol lanjutan)\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Warakas V (samping tol lanjutan)",
-      "polyline": "-6.1258889 106.8788889",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "531af280-34c3-4277-a1be-2128917d1ffa",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pemeliharaan Berkala Jalan di Kota Administrasi Jakarta Utara\n2. Lokasi: Jl. Warakas IV GG 15 RT 011\n3. Jadwal Pekerjaan: 06 Juli 2026 s/d 19-08-2026\n4. Potensi dampak: Pekerjaan sudah selesai\n5. Penanggung Jawab: Seksi Jalan, Jembatan dan Kelengkapan Jalan Suku Dinas Bina Marga Kota Administrasi Jakarta Utara",
-      "street": "Jl. Warakas IV GG 15 RT 011",
-      "polyline": "-6.1225000 106.8750278",
-      "start_date": "2026-07-06T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
     },
     {
       "id": "4a8d9551-8e38-44fc-b3e1-54044b4a3fa4",
@@ -3409,39 +2683,6 @@
       "polyline": "-6.2786020 106.7775800",
       "start_date": "2026-08-07T00:00:00+07:00",
       "end_date": "2026-11-04T00:00:00+07:00"
-    },
-    {
-      "id": "c347aa8a-b713-4517-a215-a2fa4aec93f1",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pembangunan Saluran, Saluran PHB dan Kelengkapannya\n2. Lokasi: Pembangunan Saluran Jl. H. Mawar (Sisi Barat), Kelurahan Sunter Jaya, Kecamatan Tanjung Priok\n3. Jadwal Pekerjaan: 17-06-2026 s/d 29-08-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas, pejalan kaki atau akses lingkungan;\n5. Penanggung Jawab: Sudin SDA Jakarta Utara",
-      "street": "Pembangunan Saluran Jl. H. Mawar (Sisi Barat), Kelurahan Sunter Jaya, Kecamatan Tanjung Priok",
-      "polyline": "-6.1577930 106.8677830",
-      "start_date": "2026-06-17T00:00:00+07:00",
-      "end_date": "2026-08-29T00:00:00+07:00"
-    },
-    {
-      "id": "3f5c0eec-e78a-4480-a47a-1272cc518fe6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pembangunan Saluran, Saluran PHB dan Kelengkapannya\n2. Lokasi: Pembangunan Saluran JL. Kalibaru Barat 8, Kelurahan Kalibaru, Kecamatan Cilincing\n3. Jadwal Pekerjaan: 17-06-2026 s/d 29-08-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas, pejalan kaki atau akses lingkungan;\n5. Penanggung Jawab: Sudin SDA Jakarta Utara",
-      "street": "Pembangunan Saluran JL. Kalibaru Barat 8, Kelurahan Kalibaru, Kecamatan Cilincing",
-      "polyline": "-6.1032940 106.9221890",
-      "start_date": "2026-06-17T00:00:00+07:00",
-      "end_date": "2026-08-29T00:00:00+07:00"
-    },
-    {
-      "id": "3654e3a4-798b-4039-864b-f43081b30b9c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pembangunan Saluran, Saluran PHB dan Kelengkapannya\n2. Lokasi: Pembangunan Saluran JL. Kalibaru Barat 7, Kelurahan Kalibaru, Kecamatan Cilincing\n3. Jadwal Pekerjaan: 26-06-2026 s/d 07-09-2026\n4. Potensi dampak: Potensi dampak terhadap lalu lintas, pejalan kaki atau akses lingkungan;\n5. Penanggung Jawab: Sudin SDA Jakarta Utara",
-      "street": "Pembangunan Saluran JL. Kalibaru Barat 7, Kelurahan Kalibaru, Kecamatan Cilincing",
-      "polyline": "-6.1021880 106.9209890",
-      "start_date": "2026-06-26T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
     },
     {
       "id": "a67e21b8-8415-49ac-8ef5-464abb8a493b",
@@ -3587,28 +2828,6 @@
       "end_date": "2026-10-13T00:00:00+07:00"
     },
     {
-      "id": "819429ec-dce7-487a-b25d-aefbbc3fce1d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Normalisasi Saluran\n2. Lokasi: Pekerjaan Konstruksi Saluran Gang Pancawarga 31 Kelurahan CIpinang Besar Selatan Kecamatan Jatinegara\n3. Jadwal Pekerjaan: 02 Juli 2026 s/d 29-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Sudin SDA Jakarta Timur",
-      "street": "Pekerjaan Konstruksi Saluran Gang Pancawarga 31 Kelurahan CIpinang Besar Selatan Kecamatan Jatinegara",
-      "polyline": "-6.2333985 106.8808878",
-      "start_date": "2026-07-02T00:00:00+07:00",
-      "end_date": "2026-08-29T00:00:00+07:00"
-    },
-    {
-      "id": "bd6e64e8-758e-455f-975c-7e8c47d14cf7",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Normalisasi Saluran\n2. Lokasi: Pekerjaan Konstruksi Saluran Jl H Amsir RT 003, 005 RW 004 Kelurahan Cipinang Melayu Kecamatan Makassar\n3. Jadwal Pekerjaan: 02 Juli 2026 s/d 29-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Sudin SDA Jakarta Timur",
-      "street": "Pekerjaan Konstruksi Saluran Jl H Amsir RT 003, 005 RW 004 Kelurahan Cipinang Melayu Kecamatan Makassar",
-      "polyline": "-6.2418810 106.8942896",
-      "start_date": "2026-07-02T00:00:00+07:00",
-      "end_date": "2026-08-29T00:00:00+07:00"
-    },
-    {
       "id": "85aa696b-9b80-4f8e-8a3b-5e6b9fe805b5",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -3629,17 +2848,6 @@
       "polyline": "-6.3511740 106.8945144",
       "start_date": "2026-07-02T00:00:00+07:00",
       "end_date": "2026-09-13T00:00:00+07:00"
-    },
-    {
-      "id": "d71656c1-a673-420b-85a2-a0aceb733779",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Normalisasi Saluran\n2. Lokasi: Pekerjaan Konstruksi Saluran Gang Sawo Menuju Jl Waru 3 RW 003 Kelurahan Bambu Apus Kecamatan Cipayung\n3. Jadwal Pekerjaan: 02 Juli 2026 s/d 14-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Sudin SDA Jakarta Timur",
-      "street": "Pekerjaan Konstruksi Saluran Gang Sawo Menuju Jl Waru 3 RW 003 Kelurahan Bambu Apus Kecamatan Cipayung",
-      "polyline": "-6.3046243 106.9117681",
-      "start_date": "2026-07-02T00:00:00+07:00",
-      "end_date": "2026-08-14T00:00:00+07:00"
     },
     {
       "id": "36e99f20-baa0-48a2-a13f-05cb326f490b",
@@ -3961,15 +3169,6 @@
       "end_date": "2026-10-02T00:00:00+07:00"
     },
     {
-      "id": "0e43bd2b-1415-4910-ba60-116e27ed34a9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah  Kawasan Ancol\n2. Jenis Pekerjaan: Boring Manual Pipa Air Limbah\n3. Lokasi: Kawasan Ancol\n4. Jadwal Pekerjaan: 28-08-2026 s/d 31-12-2026\n5. Potensi dampak: Posisi Di dalam kawasan ancol\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Kawasan Ancol",
-      "polyline": "-6.1250923 106.8384436"
-    },
-    {
       "id": "f931305c-8e41-46ed-828d-c64cc345b2b5",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -4254,39 +3453,6 @@
       "polyline": "-6.1638795 106.8658965",
       "start_date": "2026-07-22T00:00:00+07:00",
       "end_date": "2026-10-31T00:00:00+07:00"
-    },
-    {
-      "id": "9b5d32f3-b243-4488-ab88-60cda7095f3e",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Manhole Work\n2. Lokasi: C-3.3\n3. Jadwal Pekerjaan: 09-10-2024 s/d 25-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Kementerian PU\nJSDP P2 - Zone 1",
-      "street": "C-3.3",
-      "polyline": "-6.1968610 106.8242350",
-      "start_date": "2024-10-09T00:00:00+07:00",
-      "end_date": "2026-08-25T00:00:00+07:00"
-    },
-    {
-      "id": "dc703a20-209e-4ec1-93d3-a63bf2bfb915",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Ongoing Reinstatement\n2. Lokasi: C-4.0\n3. Jadwal Pekerjaan: 21-11-2024 s/d 25-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Kementerian PU\nJSDP P2 - Zone 1",
-      "street": "C-4.0",
-      "polyline": "-6.1988220 106.8244230",
-      "start_date": "2024-11-21T00:00:00+07:00",
-      "end_date": "2026-08-25T00:00:00+07:00"
-    },
-    {
-      "id": "679d2775-23a4-4a3b-980e-f103a013350c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Ongoing Reinstatement\n2. Lokasi: C-5.0\n3. Jadwal Pekerjaan: 03-01-2025 s/d 25-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Kementerian PU\nJSDP P2 - Zone 1",
-      "street": "C-5.0",
-      "polyline": "-6.1991030 106.8241250",
-      "start_date": "2025-01-03T00:00:00+07:00",
-      "end_date": "2026-08-25T00:00:00+07:00"
     },
     {
       "id": "42ddd576-fc60-4aac-b23a-95f799397c11",
@@ -5246,17 +4412,6 @@
       "end_date": "2027-05-25T00:00:00+07:00"
     },
     {
-      "id": "05a3bbde-1c6e-49d0-b393-63efdacfc22c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: reinstatement (rencana pengaspalan tanggal 18 agustus)\n2. Lokasi: C-18/1.0\n3. Jadwal Pekerjaan: 20-05-2025 s/d 01-09-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Kementerian PU\nJSDP P3 - Zone 1",
-      "street": "C-18/1.0",
-      "polyline": "-6.1778519 106.8124244",
-      "start_date": "2025-05-20T00:00:00+07:00",
-      "end_date": "2026-09-01T00:00:00+07:00"
-    },
-    {
       "id": "f3b79725-99eb-4f37-89ea-67f650f81e34",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -5420,17 +4575,6 @@
       "polyline": "-6.1725767 106.8084364",
       "start_date": "2025-11-14T00:00:00+07:00",
       "end_date": "2027-07-09T00:00:00+07:00"
-    },
-    {
-      "id": "31f51dec-f8f0-4422-b3ae-e851ed8a0a1d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: reintatemnet\n2. Lokasi: C-18/6.1\n3. Jadwal Pekerjaan: 11-07-2024 s/d 06-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Kementerian PU\nJSDP P3 - Zone 1",
-      "street": "C-18/6.1",
-      "polyline": "-6.1702096 106.8083597",
-      "start_date": "2024-07-11T00:00:00+07:00",
-      "end_date": "2026-07-06T00:00:00+07:00"
     },
     {
       "id": "7536a619-f3b7-4a81-9e5b-0769cb515a07",
@@ -5917,17 +5061,6 @@
       "end_date": "2027-01-14T00:00:00+07:00"
     },
     {
-      "id": "30016513-2ea2-403d-b290-af7d5b61320e",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai Jacking\n2. Lokasi: C-24/2.0\n3. Jadwal Pekerjaan: 03-08-2024 s/d 10-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Kementerian PU\nJSDP P3 - Zone 1",
-      "street": "C-24/2.0",
-      "polyline": "-6.1265664 106.8214393",
-      "start_date": "2024-08-03T00:00:00+07:00",
-      "end_date": "2026-07-10T00:00:00+07:00"
-    },
-    {
       "id": "916d5394-3994-4e4c-bb9e-4b17c8d73aa5",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -6025,17 +5158,6 @@
       "polyline": "-6.1331287 106.8150099",
       "start_date": "2025-02-12T00:00:00+07:00",
       "end_date": "2026-10-02T00:00:00+07:00"
-    },
-    {
-      "id": "eda0210a-2af4-4d59-b043-df28799d690c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Sedang Pekerjaan Reinstatement\n2. Lokasi: C-24/6.2\n3. Jadwal Pekerjaan: 31-07-2024 s/d 31-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Kementerian PU\nJSDP P3 - Zone 1",
-      "street": "C-24/6.2",
-      "polyline": "-6.1311159 106.8121160",
-      "start_date": "2024-07-31T00:00:00+07:00",
-      "end_date": "2026-08-31T00:00:00+07:00"
     },
     {
       "id": "b6bffedb-8544-459c-bf7e-be889006ccc3",
@@ -6324,325 +5446,6 @@
       "end_date": "2027-01-19T00:00:00+07:00"
     },
     {
-      "id": "524760ab-cc24-4738-93d6-78735d6150fc",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Manhole, Perkerasan Permanent\n2. Lokasi: E-1.0\n3. Jadwal Pekerjaan: 25/7/26 s/d 18/8/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-1.0",
-      "polyline": "-6.2074170 106.8483920",
-      "start_date": "2026-07-25T00:00:00+07:00",
-      "end_date": "2026-08-18T00:00:00+07:00"
-    },
-    {
-      "id": "db486344-1275-4133-9836-0c2f6a9249c7",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Manhole, Perkerasan Permanent\n2. Lokasi: E-1.1\n3. Jadwal Pekerjaan: 19/6/26 s/d 13/7/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-1.1",
-      "polyline": "-6.2066500 106.8486450",
-      "start_date": "2026-06-19T00:00:00+07:00",
-      "end_date": "2026-07-13T00:00:00+07:00"
-    },
-    {
-      "id": "c16e336b-8566-46f9-8110-368c2ef1694d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Manhole, Perkerasan Permanent\n2. Lokasi: E-1.1/1.0\n3. Jadwal Pekerjaan: 07-07-2026 s/d 31/7/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-1.1/1.0",
-      "polyline": "-6.2069020 106.8488620",
-      "start_date": "2026-07-07T00:00:00+07:00",
-      "end_date": "2026-07-31T00:00:00+07:00"
-    },
-    {
-      "id": "36975284-20a9-4fc4-b02c-9a3bdc705491",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Manhole, Perkerasan Permanent\n2. Lokasi: E-1.2\n3. Jadwal Pekerjaan: 25/1/26 s/d 18/2/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-1.2",
-      "polyline": "-6.2057540 106.8488860",
-      "start_date": "2026-01-25T00:00:00+07:00",
-      "end_date": "2026-02-18T00:00:00+07:00"
-    },
-    {
-      "id": "7cc9d3d3-f54d-40d8-a302-0b161d5a7158",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-1.3\n3. Jadwal Pekerjaan: 04-03-2026 s/d 27/4/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-1.3",
-      "polyline": "-6.2048760 106.8490360",
-      "start_date": "2026-03-04T00:00:00+07:00",
-      "end_date": "2026-04-27T00:00:00+07:00"
-    },
-    {
-      "id": "6ebd4a20-e87b-40e6-a379-79c7f7b3d97f",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-1.4\n3. Jadwal Pekerjaan: 04-03-2026 s/d 27/4/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-1.4",
-      "polyline": "-6.2039890 106.8491870",
-      "start_date": "2026-03-04T00:00:00+07:00",
-      "end_date": "2026-04-27T00:00:00+07:00"
-    },
-    {
-      "id": "11f6cbe4-6af4-4b3a-94d7-279bc8cd2946",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-1.5\n3. Jadwal Pekerjaan: 06-01-2026 s/d 25/6/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-1.5",
-      "polyline": "-6.2034290 106.8492840",
-      "start_date": "2026-01-06T00:00:00+07:00",
-      "end_date": "2026-06-25T00:00:00+07:00"
-    },
-    {
-      "id": "4200b6cf-d865-4b82-97d6-1705f3c2e81e",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-2.0\n3. Jadwal Pekerjaan: 06-01-2026 s/d 25/06/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2.0",
-      "polyline": "-6.2026110 106.8494190",
-      "start_date": "2026-01-06T00:00:00+07:00",
-      "end_date": "2026-06-25T00:00:00+07:00"
-    },
-    {
-      "id": "cc92c0eb-b003-4346-b8d7-92d6ef892bea",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-2.1\n3. Jadwal Pekerjaan: 31/12/2025 s/d 24/01/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2.1",
-      "polyline": "-6.2026390 106.8484970",
-      "start_date": "2025-12-31T00:00:00+07:00",
-      "end_date": "2026-01-24T00:00:00+07:00"
-    },
-    {
-      "id": "04f6913e-763d-4a54-b292-66da6ae2c4f0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-2.2\n3. Jadwal Pekerjaan: 25/01/2026 s/d 18/02/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2.2",
-      "polyline": "-6.2024940 106.8475140",
-      "start_date": "2026-01-25T00:00:00+07:00",
-      "end_date": "2026-02-18T00:00:00+07:00"
-    },
-    {
-      "id": "7a35e33f-ec13-4d55-9f06-73cd84cf8b39",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-2.3\n3. Jadwal Pekerjaan: 19/02/2026 s/d 15/03/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2.3",
-      "polyline": "-6.2023580 106.8466390",
-      "start_date": "2026-02-19T00:00:00+07:00",
-      "end_date": "2026-03-15T00:00:00+07:00"
-    },
-    {
-      "id": "6339f54c-0672-4574-8b95-f449d53fe9d4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-2.4\n3. Jadwal Pekerjaan: 16/03/2026 s/d 04-09-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2.4",
-      "polyline": "-6.2023610 106.8460780",
-      "start_date": "2026-03-16T00:00:00+07:00",
-      "end_date": "2026-09-04T00:00:00+07:00"
-    },
-    {
-      "id": "13069c04-fb9b-4ee3-8465-2c9961635ff4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-2.5\n3. Jadwal Pekerjaan: 04-10-2026 s/d 05-04-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2.5",
-      "polyline": "-6.2017560 106.8452250",
-      "start_date": "2026-10-04T00:00:00+07:00",
-      "end_date": "2026-04-05T00:00:00+07:00"
-    },
-    {
-      "id": "4afcf868-8d4b-4ece-ba95-e59ec9179dec",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-2.6\n3. Jadwal Pekerjaan: 05-05-2026 s/d 29/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2.6",
-      "polyline": "-6.2011440 106.8444390",
-      "start_date": "2026-05-05T00:00:00+07:00",
-      "end_date": "2026-05-29T00:00:00+07:00"
-    },
-    {
-      "id": "c300ed04-abed-4c6f-8492-4d621c085a4e",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-3.0\n3. Jadwal Pekerjaan: 30/05/2026 s/d 23/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-3.0",
-      "polyline": "-6.2006140 106.8438000",
-      "start_date": "2026-05-30T00:00:00+07:00",
-      "end_date": "2026-06-23T00:00:00+07:00"
-    },
-    {
-      "id": "11f295df-8e4e-4fd5-a8dc-44caf569e682",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-3.0A\n3. Jadwal Pekerjaan: 24/06/2026 s/d 18/07/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-3.0A",
-      "polyline": "-6.2005750 106.8429320",
-      "start_date": "2026-06-24T00:00:00+07:00",
-      "end_date": "2026-07-18T00:00:00+07:00"
-    },
-    {
-      "id": "f9222182-8036-4c84-a339-946b3e98eb00",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-3.1\n3. Jadwal Pekerjaan: 18/11/25 s/d 30/12/25\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-3.1",
-      "polyline": "-6.1990500 106.8418060",
-      "start_date": "2025-11-18T00:00:00+07:00",
-      "end_date": "2025-12-30T00:00:00+07:00"
-    },
-    {
-      "id": "62c6bed2-52c8-4b0a-911c-8c3d27979642",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-3.1A\n3. Jadwal Pekerjaan: 12-12-2025 s/d 27/12/25\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-3.1A",
-      "polyline": "-6.1979190 106.8410781",
-      "start_date": "2025-12-12T00:00:00+07:00",
-      "end_date": "2025-12-27T00:00:00+07:00"
-    },
-    {
-      "id": "5498aced-fd32-4b5e-bf19-ec78991e0e83",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-4.0\n3. Jadwal Pekerjaan: 12-06-2025 s/d 02-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-4.0",
-      "polyline": "-6.1967750 106.8403190",
-      "start_date": "2025-06-12T00:00:00+07:00",
-      "end_date": "2026-08-02T00:00:00+07:00"
-    },
-    {
-      "id": "929d72eb-b3e9-4d35-b576-518945c2eb41",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-4.1\n3. Jadwal Pekerjaan: 02-09-2026 s/d 14/04/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-4.1",
-      "polyline": "-6.1952500 106.8397530",
-      "start_date": "2026-09-02T00:00:00+07:00",
-      "end_date": "2026-04-14T00:00:00+07:00"
-    },
-    {
-      "id": "e59fcd28-65c1-4c87-a935-2166b567f886",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-5.0\n3. Jadwal Pekerjaan: 17/11/25 s/d 31/7/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-5.0",
-      "polyline": "-6.1936970 106.8392610",
-      "start_date": "2025-11-17T00:00:00+07:00",
-      "end_date": "2026-07-31T00:00:00+07:00"
-    },
-    {
-      "id": "0ffe1b5c-5fbe-4afa-a836-e97e076de576",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-5.1\n3. Jadwal Pekerjaan: 02-05-2026 s/d 27/3/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-5.1",
-      "polyline": "-6.1916060 106.8384080",
-      "start_date": "2026-05-02T00:00:00+07:00",
-      "end_date": "2026-03-27T00:00:00+07:00"
-    },
-    {
-      "id": "01777ff5-f496-42b6-9253-4a769ec060df",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-5.2\n3. Jadwal Pekerjaan: 24/2/26 s/d 05-01-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-5.2",
-      "polyline": "-6.1892650 106.8375890",
-      "start_date": "2026-02-24T00:00:00+07:00",
-      "end_date": "2026-01-05T00:00:00+07:00"
-    },
-    {
-      "id": "1b13b66c-a45b-417d-bb7e-bbb2e4689516",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-6.0\n3. Jadwal Pekerjaan: 06-01-2026 s/d 19/7/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-6.0",
-      "polyline": "-6.1871710 106.8364350",
-      "start_date": "2026-01-06T00:00:00+07:00",
-      "end_date": "2026-07-19T00:00:00+07:00"
-    },
-    {
-      "id": "3d35a94f-9bbb-4299-91e4-e8d80b17d7a2",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-6.1\n3. Jadwal Pekerjaan: 06-10-2026 s/d 31/7/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-6.1",
-      "polyline": "-6.1853060 106.8356220",
-      "start_date": "2026-10-06T00:00:00+07:00",
-      "end_date": "2026-07-31T00:00:00+07:00"
-    },
-    {
-      "id": "b7a278bf-647b-4104-8574-8f7078fb7273",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole, perkerasan permanent\n2. Lokasi: E-6.2\n3. Jadwal Pekerjaan: 05-01-2026 s/d 21/6/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-6.2",
-      "polyline": "-6.1830380 106.8340350",
-      "start_date": "2026-01-05T00:00:00+07:00",
-      "end_date": "2026-06-21T00:00:00+07:00"
-    },
-    {
-      "id": "cd14765f-da2e-406e-80e2-d52b388c580a",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole, perkerasan permanent\n2. Lokasi: E-6.3\n3. Jadwal Pekerjaan: 05-01-2026 s/d 16/6/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-6.3",
-      "polyline": "-6.1813060 106.8326360",
-      "start_date": "2026-01-05T00:00:00+07:00",
-      "end_date": "2026-06-16T00:00:00+07:00"
-    },
-    {
-      "id": "b8ccc805-fed4-4e8f-baf6-26e6d21d2523",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-7.0\n3. Jadwal Pekerjaan: 06-10-2026 s/d 31/7/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-7.0",
-      "polyline": "-6.1791220 106.8317270",
-      "start_date": "2026-10-06T00:00:00+07:00",
-      "end_date": "2026-07-31T00:00:00+07:00"
-    },
-    {
-      "id": "131e38b3-6088-4c77-b2b6-674972a25c64",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-7.1\n3. Jadwal Pekerjaan: 14/9/26 s/d 11-04-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-7.1",
-      "polyline": "-6.1764580 106.8311000",
-      "start_date": "2026-09-14T00:00:00+07:00",
-      "end_date": "2026-04-11T00:00:00+07:00"
-    },
-    {
       "id": "58885181-55ea-4c8c-b15a-cfd3bb6c319b",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -6663,17 +5466,6 @@
       "polyline": "-6.1728220 106.8292610",
       "start_date": "2026-08-25T00:00:00+07:00",
       "end_date": "2026-10-15T00:00:00+07:00"
-    },
-    {
-      "id": "41f169a2-9e33-4570-aa63-93286566d73b",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-7.4\n3. Jadwal Pekerjaan: 15/9/26 s/d 11-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-7.4",
-      "polyline": "-6.1711390 106.8296000",
-      "start_date": "2026-09-15T00:00:00+07:00",
-      "end_date": "2026-05-11T00:00:00+07:00"
     },
     {
       "id": "eb30cf34-e02a-41e5-96b1-b03b5d0a14e4",
@@ -6709,94 +5501,6 @@
       "end_date": "2026-10-18T00:00:00+07:00"
     },
     {
-      "id": "d8cb3dd6-1b4b-44ef-a938-e751d07660f3",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9.1\n3. Jadwal Pekerjaan: 21/6/26 s/d 18/8/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9.1",
-      "polyline": "-6.1642170 106.8266220",
-      "start_date": "2026-06-21T00:00:00+07:00",
-      "end_date": "2026-08-18T00:00:00+07:00"
-    },
-    {
-      "id": "2d5d0dad-0fe4-4096-9565-434f45cef878",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9.2\n3. Jadwal Pekerjaan: 30/4/26 s/d 22/6/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9.2",
-      "polyline": "-6.1615530 106.8265580",
-      "start_date": "2026-04-30T00:00:00+07:00",
-      "end_date": "2026-06-22T00:00:00+07:00"
-    },
-    {
-      "id": "fe4684e5-9478-4439-a7cd-350a4028faa6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9.3\n3. Jadwal Pekerjaan: 02-10-2026 s/d 21/5/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9.3",
-      "polyline": "-6.1598700 106.8272700",
-      "start_date": "2026-10-02T00:00:00+07:00",
-      "end_date": "2026-05-21T00:00:00+07:00"
-    },
-    {
-      "id": "89348d28-0b93-445d-839d-e393578ad5f0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9.4\n3. Jadwal Pekerjaan: 29/05/2026 s/d 28/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9.4",
-      "polyline": "-6.1576170 106.8272220",
-      "start_date": "2026-05-29T00:00:00+07:00",
-      "end_date": "2026-06-28T00:00:00+07:00"
-    },
-    {
-      "id": "2e1c75d9-9f0a-4041-86d3-d9cfd148bb5d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9.5\n3. Jadwal Pekerjaan: 29/06/2026 s/d 29/07/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9.5",
-      "polyline": "-6.1552940 106.8271720",
-      "start_date": "2026-06-29T00:00:00+07:00",
-      "end_date": "2026-07-29T00:00:00+07:00"
-    },
-    {
-      "id": "181992fa-66d3-4494-bb1a-97c73f2d0580",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9.6\n3. Jadwal Pekerjaan: 30/07/2026 s/d 29/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9.6",
-      "polyline": "-6.1519140 106.8270690",
-      "start_date": "2026-07-30T00:00:00+07:00",
-      "end_date": "2026-08-29T00:00:00+07:00"
-    },
-    {
-      "id": "1ddfb89a-ac58-4c73-a974-4b3b6a19c236",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9.7\n3. Jadwal Pekerjaan: 13/11/25 s/d 28/5/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9.7",
-      "polyline": "-6.1485390 106.8265310",
-      "start_date": "2025-11-13T00:00:00+07:00",
-      "end_date": "2026-05-28T00:00:00+07:00"
-    },
-    {
-      "id": "e04dad77-d817-49f7-b4ab-305281dd64c8",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9.8\n3. Jadwal Pekerjaan: 21/2/26 s/d 16/5/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9.8",
-      "polyline": "-6.1490330 106.8232950",
-      "start_date": "2026-02-21T00:00:00+07:00",
-      "end_date": "2026-05-16T00:00:00+07:00"
-    },
-    {
       "id": "1a3ffbff-6f53-4dce-ae03-3068714a863e",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -6806,17 +5510,6 @@
       "polyline": "-6.1492393 106.8211247",
       "start_date": "2026-01-09T00:00:00+07:00",
       "end_date": "2026-10-13T00:00:00+07:00"
-    },
-    {
-      "id": "724b65db-2dee-41c3-b979-71a447f57a79",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan dc\n2. Lokasi: E-2/1.0\n3. Jadwal Pekerjaan: 25/7/26 s/d 24/8/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2/1.0",
-      "polyline": "-6.2026500 106.8518750",
-      "start_date": "2026-07-25T00:00:00+07:00",
-      "end_date": "2026-08-24T00:00:00+07:00"
     },
     {
       "id": "bf20355b-cc1d-4de2-9010-161d9ee01eb4",
@@ -6830,28 +5523,6 @@
       "end_date": "2026-09-24T00:00:00+07:00"
     },
     {
-      "id": "d83ee56d-0653-4c1a-b9e5-14e549dbcdf0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-2/1.2\n3. Jadwal Pekerjaan: 05-01-2026 s/d 25/5/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2/1.2",
-      "polyline": "-6.2023780 106.8511530",
-      "start_date": "2026-01-05T00:00:00+07:00",
-      "end_date": "2026-05-25T00:00:00+07:00"
-    },
-    {
-      "id": "b1982be9-f061-41b3-8650-5018eebfa067",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan dc\n2. Lokasi: E-2/1.3\n3. Jadwal Pekerjaan: 07-01-2026 s/d 13/8/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2/1.3",
-      "polyline": "-6.2019500 106.8507060",
-      "start_date": "2026-01-07T00:00:00+07:00",
-      "end_date": "2026-08-13T00:00:00+07:00"
-    },
-    {
       "id": "adf601cb-7cd7-40df-8a1a-fd4df6363e42",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -6861,149 +5532,6 @@
       "polyline": "-6.2019881 106.8506120",
       "start_date": "2026-08-13T00:00:00+07:00",
       "end_date": "2026-09-25T00:00:00+07:00"
-    },
-    {
-      "id": "9fd5de9a-cbc8-4b85-ae73-d01fc9441cec",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-2/1.4\n3. Jadwal Pekerjaan: 08-10-2026 s/d 09-03-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2/1.4",
-      "polyline": "-6.2020960 106.8503540",
-      "start_date": "2026-10-08T00:00:00+07:00",
-      "end_date": "2026-03-09T00:00:00+07:00"
-    },
-    {
-      "id": "8824e547-36fb-4a26-b5a9-d8e86a808f05",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-2/1.5\n3. Jadwal Pekerjaan: 25/6/26 s/d 19/7/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-2/1.5",
-      "polyline": "-6.2026140 106.8496150",
-      "start_date": "2026-06-25T00:00:00+07:00",
-      "end_date": "2026-07-19T00:00:00+07:00"
-    },
-    {
-      "id": "996a4dab-06c8-4bfb-a446-ce0797364ad5",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-3/1.0\n3. Jadwal Pekerjaan: 15/2/26 s/d 04-04-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-3/1.0",
-      "polyline": "-6.1985580 106.8447360",
-      "start_date": "2026-02-15T00:00:00+07:00",
-      "end_date": "2026-04-04T00:00:00+07:00"
-    },
-    {
-      "id": "530b2762-1059-4ff7-971b-237b1d56a11b",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-3/1.1\n3. Jadwal Pekerjaan: 05-04-2026 s/d 23-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-3/1.1",
-      "polyline": "-6.1990440 106.8449750",
-      "start_date": "2026-04-05T00:00:00+07:00",
-      "end_date": "2026-05-23T00:00:00+07:00"
-    },
-    {
-      "id": "b1a1aafe-7270-4c3d-8096-0b340ab8afc1",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-3/1.2\n3. Jadwal Pekerjaan: 23-05-2026 s/d 10-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-3/1.2",
-      "polyline": "-6.1994580 106.8453280",
-      "start_date": "2026-05-23T00:00:00+07:00",
-      "end_date": "2026-07-10T00:00:00+07:00"
-    },
-    {
-      "id": "93fb2f37-a526-4d80-904f-60b7298719ec",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-3/1.3\n3. Jadwal Pekerjaan: 11-07-2026 s/d 28-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-3/1.3",
-      "polyline": "-6.2000080 106.8445440",
-      "start_date": "2026-07-11T00:00:00+07:00",
-      "end_date": "2026-08-28T00:00:00+07:00"
-    },
-    {
-      "id": "936128db-824c-46c0-8fde-f958264af903",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-4/1.0\n3. Jadwal Pekerjaan: 05-06-2026 s/d 23/6/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-4/1.0",
-      "polyline": "-6.1967780 106.8367940",
-      "start_date": "2026-06-05T00:00:00+07:00",
-      "end_date": "2026-06-23T00:00:00+07:00"
-    },
-    {
-      "id": "219da03e-80ce-4150-9885-fb057f844d42",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-4/1.1\n3. Jadwal Pekerjaan: 04-06-2026 s/d 30/04/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-4/1.1",
-      "polyline": "-6.1968780 106.8378750",
-      "start_date": "2026-06-04T00:00:00+07:00",
-      "end_date": "2026-04-30T00:00:00+07:00"
-    },
-    {
-      "id": "cecfe42e-2247-42ce-8262-64869218d857",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-4/1.2\n3. Jadwal Pekerjaan: 05-01-2026 s/d 25/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-4/1.2",
-      "polyline": "-6.1970810 106.8390860",
-      "start_date": "2026-01-05T00:00:00+07:00",
-      "end_date": "2026-05-25T00:00:00+07:00"
-    },
-    {
-      "id": "bd4cb3db-5cd1-4d0d-a35c-19b3895372a4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-5/1.0\n3. Jadwal Pekerjaan: 26/05/2026 s/d 19/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-5/1.0",
-      "polyline": "-6.1909390 106.8424580",
-      "start_date": "2026-05-26T00:00:00+07:00",
-      "end_date": "2026-06-19T00:00:00+07:00"
-    },
-    {
-      "id": "08a56c1d-4494-4899-b948-a68419713ca0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-5/1.1\n3. Jadwal Pekerjaan: 20/06/2026 s/d 14/07/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-5/1.1",
-      "polyline": "-6.1916780 106.8423310",
-      "start_date": "2026-06-20T00:00:00+07:00",
-      "end_date": "2026-07-14T00:00:00+07:00"
-    },
-    {
-      "id": "324ab470-7277-47c8-861c-6614eff96afc",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-5/1.2\n3. Jadwal Pekerjaan: 15/07/2026 s/d 08-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-5/1.2",
-      "polyline": "-6.1922620 106.8415390",
-      "start_date": "2026-07-15T00:00:00+07:00",
-      "end_date": "2026-08-08T00:00:00+07:00"
-    },
-    {
-      "id": "0f414c1d-b077-49e7-9d77-60569e513123",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-5/1.3\n3. Jadwal Pekerjaan: 08-09-2026 s/d 09-02-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-5/1.3",
-      "polyline": "-6.1928690 106.8406830",
-      "start_date": "2026-09-08T00:00:00+07:00",
-      "end_date": "2026-02-09T00:00:00+07:00"
     },
     {
       "id": "303e7bb1-196b-4980-a4d9-8b2caaa33816",
@@ -7039,17 +5567,6 @@
       "end_date": "2026-11-16T00:00:00+07:00"
     },
     {
-      "id": "98eb3bb5-b2b9-48bf-b524-503d5ba31274",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-7/1.0\n3. Jadwal Pekerjaan: 03-12-2026 s/d 04-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-7/1.0",
-      "polyline": "-6.1790030 106.8347250",
-      "start_date": "2026-12-03T00:00:00+07:00",
-      "end_date": "2026-05-04T00:00:00+07:00"
-    },
-    {
       "id": "55184409-67fb-4360-bc8f-44a4c50d8fad",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -7061,17 +5578,6 @@
       "end_date": "2026-11-03T00:00:00+07:00"
     },
     {
-      "id": "268fca1c-2ae2-4663-8310-15eb9664bbd0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-7/1.2\n3. Jadwal Pekerjaan: 18/2/26 s/d 14/3/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-7/1.2",
-      "polyline": "-6.1791080 106.8331030",
-      "start_date": "2026-02-18T00:00:00+07:00",
-      "end_date": "2026-03-14T00:00:00+07:00"
-    },
-    {
       "id": "b05f81b5-a693-4f8b-9539-75d3c19c8180",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -7081,17 +5587,6 @@
       "polyline": "-6.1540794 106.6963054",
       "start_date": "2026-03-26T00:00:00+07:00",
       "end_date": "2026-09-26T00:00:00+07:00"
-    },
-    {
-      "id": "2f821f30-46a7-42f9-8bc8-4eb7a7b989e4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-7/1.3\n3. Jadwal Pekerjaan: 28/3/26 s/d 21/4/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-7/1.3",
-      "polyline": "-6.1791670 106.8323470",
-      "start_date": "2026-03-28T00:00:00+07:00",
-      "end_date": "2026-04-21T00:00:00+07:00"
     },
     {
       "id": "5cd091d8-aa0e-458a-8f5c-88027277b70f",
@@ -7116,28 +5611,6 @@
       "end_date": "2026-09-17T00:00:00+07:00"
     },
     {
-      "id": "4c573c51-763c-464a-9dfe-66a5f0ff8664",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: perkerjaan jacking pipa\n2. Lokasi: E-7.5/1.2\n3. Jadwal Pekerjaan: 16/8/26 s/d 28/8/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-7.5/1.2",
-      "polyline": "-6.1678810 106.8280610",
-      "start_date": "2026-08-16T00:00:00+07:00",
-      "end_date": "2026-08-28T00:00:00+07:00"
-    },
-    {
-      "id": "34427f26-3fa9-4636-843c-2e8840ed1d05",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: perkerjaan jacking pipa\n2. Lokasi: E-7.5/1.3\n3. Jadwal Pekerjaan: 26/8/26 s/d 31/8/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-7.5/1.3",
-      "polyline": "-6.1680810 106.8290330",
-      "start_date": "2026-08-26T00:00:00+07:00",
-      "end_date": "2026-08-31T00:00:00+07:00"
-    },
-    {
       "id": "499d33c2-87ae-4ffc-b0e3-343e8a9c06a7",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -7147,50 +5620,6 @@
       "polyline": "-6.1663250 106.8332940",
       "start_date": "2025-11-24T00:00:00+07:00",
       "end_date": "2026-11-01T00:00:00+07:00"
-    },
-    {
-      "id": "b481d7f1-df7b-4c2a-aa1f-301638df7dd6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-8/1.1\n3. Jadwal Pekerjaan: 28/4/26 s/d 16/6/26\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-8/1.1",
-      "polyline": "-6.1667670 106.8324560",
-      "start_date": "2026-04-28T00:00:00+07:00",
-      "end_date": "2026-06-16T00:00:00+07:00"
-    },
-    {
-      "id": "7fabc949-6b39-4a2c-a888-87fb81a19a7b",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-8/1.2\n3. Jadwal Pekerjaan: 14/05/2026 s/d 07-01-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-8/1.2",
-      "polyline": "-6.1670360 106.8317830",
-      "start_date": "2026-05-14T00:00:00+07:00",
-      "end_date": "2026-01-07T00:00:00+07:00"
-    },
-    {
-      "id": "9f43ca18-9d8a-48ed-85cf-c52ba984a269",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-8/1.3\n3. Jadwal Pekerjaan: 07-02-2026 s/d 19/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-8/1.3",
-      "polyline": "-6.1669360 106.8313110",
-      "start_date": "2026-02-07T00:00:00+07:00",
-      "end_date": "2026-08-19T00:00:00+07:00"
-    },
-    {
-      "id": "5591cd0c-89df-4219-9f58-8ef9665a3348",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-8/1.4\n3. Jadwal Pekerjaan: 20/08/2026 s/d 10-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-8/1.4",
-      "polyline": "-6.1677950 106.8310650",
-      "start_date": "2026-08-20T00:00:00+07:00",
-      "end_date": "2026-07-10T00:00:00+07:00"
     },
     {
       "id": "5da91bea-f82c-442b-b409-df0bbaad6c2c",
@@ -7204,17 +5633,6 @@
       "end_date": "2026-11-25T00:00:00+07:00"
     },
     {
-      "id": "6c743873-f068-4a2f-bf92-1e153d3c72f5",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9/1.0\n3. Jadwal Pekerjaan: 25/07/2026 s/d 23/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9/1.0",
-      "polyline": "-6.1672670 106.8229170",
-      "start_date": "2026-07-25T00:00:00+07:00",
-      "end_date": "2026-08-23T00:00:00+07:00"
-    },
-    {
       "id": "0755837e-11ae-45ad-8598-66c494042c6d",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -7224,50 +5642,6 @@
       "polyline": "-6.1478550 106.6956030",
       "start_date": "2026-03-26T00:00:00+07:00",
       "end_date": "2026-09-26T00:00:00+07:00"
-    },
-    {
-      "id": "42307430-c8fb-444e-8222-64c90e2d4dac",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9/1.1\n3. Jadwal Pekerjaan: 07-07-2026 s/d 08-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9/1.1",
-      "polyline": "-6.1671670 106.8237810",
-      "start_date": "2026-07-07T00:00:00+07:00",
-      "end_date": "2026-05-08T00:00:00+07:00"
-    },
-    {
-      "id": "5855657a-80fa-4258-bd1c-e314b9bafe8a",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9/1.2\n3. Jadwal Pekerjaan: 19/06/2026 s/d 18/07/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9/1.2",
-      "polyline": "-6.1671000 106.8246440",
-      "start_date": "2026-06-19T00:00:00+07:00",
-      "end_date": "2026-07-18T00:00:00+07:00"
-    },
-    {
-      "id": "ed983d90-95ed-4250-b7c8-9acf526a6695",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9/1.3\n3. Jadwal Pekerjaan: 06-01-2026 s/d 30/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9/1.3",
-      "polyline": "-6.1670640 106.8255110",
-      "start_date": "2026-01-06T00:00:00+07:00",
-      "end_date": "2026-06-30T00:00:00+07:00"
-    },
-    {
-      "id": "b24edbd6-6b65-4f22-b606-8a16d4fb7741",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-9.7/1.0\n3. Jadwal Pekerjaan: 07-01-2026 s/d 30/07/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-9.7/1.0",
-      "polyline": "-6.1485220 106.8266440",
-      "start_date": "2026-01-07T00:00:00+07:00",
-      "end_date": "2026-07-30T00:00:00+07:00"
     },
     {
       "id": "679d884c-83c8-4a34-9f06-d4c736842790",
@@ -7281,17 +5655,6 @@
       "end_date": "2026-12-02T00:00:00+07:00"
     },
     {
-      "id": "abef0eb9-50e7-452b-9874-936ba952ec91",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-10/1.1\n3. Jadwal Pekerjaan: 22/01/2026 s/d 15/02/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-10/1.1",
-      "polyline": "-6.1522280 106.8210610",
-      "start_date": "2026-01-22T00:00:00+07:00",
-      "end_date": "2026-02-15T00:00:00+07:00"
-    },
-    {
       "id": "6ad3944c-50da-4d5e-b045-84957006a029",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -7301,28 +5664,6 @@
       "polyline": "-6.1515330 106.8209330",
       "start_date": "2026-02-16T00:00:00+07:00",
       "end_date": "2026-12-03T00:00:00+07:00"
-    },
-    {
-      "id": "65f0441f-07d4-454b-85e8-cf64879e0bd4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-10/1.3\n3. Jadwal Pekerjaan: 21/04/2026 s/d 15/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-10/1.3",
-      "polyline": "-6.1506720 106.8207310",
-      "start_date": "2026-04-21T00:00:00+07:00",
-      "end_date": "2026-05-15T00:00:00+07:00"
-    },
-    {
-      "id": "ed43be63-7464-4420-bf9f-ad4489306204",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-10/1.4\n3. Jadwal Pekerjaan: 22/05/2026 s/d 15/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-10/1.4",
-      "polyline": "-6.1498360 106.8205280",
-      "start_date": "2026-05-22T00:00:00+07:00",
-      "end_date": "2026-06-15T00:00:00+07:00"
     },
     {
       "id": "e7000628-b757-4c4e-95b2-2cb4633c545a",
@@ -7336,127 +5677,6 @@
       "end_date": "2026-10-07T00:00:00+07:00"
     },
     {
-      "id": "0d9b5919-0a25-4656-b7ca-ad5d1c4952dc",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-10/1.6\n3. Jadwal Pekerjaan: 07-11-2026 s/d 08-04-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-10/1.6",
-      "polyline": "-6.1494280 106.8211470",
-      "start_date": "2026-11-07T00:00:00+07:00",
-      "end_date": "2026-04-08T00:00:00+07:00"
-    },
-    {
-      "id": "b5aef6f2-4666-45cd-a158-e3cc14218be9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan shaft\n2. Lokasi: E-11.0\n3. Jadwal Pekerjaan: 28/04/2026 s/d 05-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-11.0",
-      "polyline": "-6.1496567 106.8186636",
-      "start_date": "2026-04-28T00:00:00+07:00",
-      "end_date": "2026-05-05T00:00:00+07:00"
-    },
-    {
-      "id": "ac65b199-e3b0-4c69-92ee-e03e3bf2d2c7",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-11/1.0\n3. Jadwal Pekerjaan: 06-01-2026 s/d 25/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-11/1.0",
-      "polyline": "-6.1432920 106.8208220",
-      "start_date": "2026-01-06T00:00:00+07:00",
-      "end_date": "2026-06-25T00:00:00+07:00"
-    },
-    {
-      "id": "0c8063c5-e6dd-4704-ac80-527ac38e9bff",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-11/1.1\n3. Jadwal Pekerjaan: 05-01-2026 s/d 25/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-11/1.1",
-      "polyline": "-6.1443030 106.8207610",
-      "start_date": "2026-01-05T00:00:00+07:00",
-      "end_date": "2026-05-25T00:00:00+07:00"
-    },
-    {
-      "id": "19d8b2a6-bb5b-4ddb-9c5f-559078455b5d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-11/1.2\n3. Jadwal Pekerjaan: 06-01-2026 s/d 25/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-11/1.2",
-      "polyline": "-6.1453110 106.8206890",
-      "start_date": "2026-01-06T00:00:00+07:00",
-      "end_date": "2026-06-25T00:00:00+07:00"
-    },
-    {
-      "id": "de6b24a7-af97-4d35-8b58-30a3300fe080",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-11/1.3\n3. Jadwal Pekerjaan: 05-01-2026 s/d 25/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-11/1.3",
-      "polyline": "-6.1463190 106.8205830",
-      "start_date": "2026-01-05T00:00:00+07:00",
-      "end_date": "2026-05-25T00:00:00+07:00"
-    },
-    {
-      "id": "6d62f487-e2fa-4a70-82c7-cf3867f1f5f8",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-11/1.4\n3. Jadwal Pekerjaan: 28/03/2026 s/d 17/04/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-11/1.4",
-      "polyline": "-6.1470750 106.8205170",
-      "start_date": "2026-03-28T00:00:00+07:00",
-      "end_date": "2026-04-17T00:00:00+07:00"
-    },
-    {
-      "id": "e0da1e9d-8971-4398-898a-4d1114cca3c3",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-11/1.5\n3. Jadwal Pekerjaan: 02-07-2026 s/d 03-03-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-11/1.5",
-      "polyline": "-6.1482110 106.8204250",
-      "start_date": "2026-07-02T00:00:00+07:00",
-      "end_date": "2026-03-03T00:00:00+07:00"
-    },
-    {
-      "id": "0fd8c492-cb46-4a98-87a9-9f70c0dfde5f",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-11/1.6\n3. Jadwal Pekerjaan: 04-01-2026 s/d 25/04/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-11/1.6",
-      "polyline": "-6.1493543 106.8203387",
-      "start_date": "2026-01-04T00:00:00+07:00",
-      "end_date": "2026-04-25T00:00:00+07:00"
-    },
-    {
-      "id": "1b99774b-307f-476e-9d30-9ce129f3e3c3",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-11/1.7\n3. Jadwal Pekerjaan: 05-01-2026 s/d 25/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-11/1.7",
-      "polyline": "-6.1494640 106.8195330",
-      "start_date": "2026-01-05T00:00:00+07:00",
-      "end_date": "2026-05-25T00:00:00+07:00"
-    },
-    {
-      "id": "8f1d5fe9-e125-4a7e-b6d7-ab50720839e1",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-11/1.8\n3. Jadwal Pekerjaan: 06-01-2026 s/d 25/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-11/1.8",
-      "polyline": "-6.1496060 106.8188366",
-      "start_date": "2026-01-06T00:00:00+07:00",
-      "end_date": "2026-06-25T00:00:00+07:00"
-    },
-    {
       "id": "174573e8-ef73-4fb4-9cc9-ad0e151a26bb",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -7468,39 +5688,6 @@
       "end_date": "2026-11-03T00:00:00+07:00"
     },
     {
-      "id": "7c19a3cd-f27f-4a8f-befd-1e02bb6a96c1",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-12/1.1\n3. Jadwal Pekerjaan: 20/02/2026 s/d 16/03/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/1.1",
-      "polyline": "-6.1615160 106.8374750",
-      "start_date": "2026-02-20T00:00:00+07:00",
-      "end_date": "2026-03-16T00:00:00+07:00"
-    },
-    {
-      "id": "296cb520-8219-4f54-98a7-24340aa8afc2",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-12/1.2\n3. Jadwal Pekerjaan: 30/03/2026 s/d 21/04/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/1.2",
-      "polyline": "-6.1609290 106.8373560",
-      "start_date": "2026-03-30T00:00:00+07:00",
-      "end_date": "2026-04-21T00:00:00+07:00"
-    },
-    {
-      "id": "b13de9c8-2add-4bc6-be1c-43c7c5b3466d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan dc\n2. Lokasi: E-12/1.3\n3. Jadwal Pekerjaan: 07-01-2026 s/d 13/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/1.3",
-      "polyline": "-6.1600060 106.8371250",
-      "start_date": "2026-01-07T00:00:00+07:00",
-      "end_date": "2026-08-13T00:00:00+07:00"
-    },
-    {
       "id": "2f2e47cd-888d-468c-9c4c-e3af1e37e54e",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -7510,248 +5697,6 @@
       "polyline": "-6.1594830 106.8369250",
       "start_date": "2026-03-17T00:00:00+07:00",
       "end_date": "2026-10-04T00:00:00+07:00"
-    },
-    {
-      "id": "51ce8b17-16d9-4052-a3b7-717f47035af8",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/1.5\n3. Jadwal Pekerjaan: 04-11-2026 s/d 05-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/1.5",
-      "polyline": "-6.1595310 106.8368000",
-      "start_date": "2026-11-04T00:00:00+07:00",
-      "end_date": "2026-05-05T00:00:00+07:00"
-    },
-    {
-      "id": "fc9b48e8-aa59-433d-8b33-ea3debe498bc",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/1.6\n3. Jadwal Pekerjaan: 05-06-2026 s/d 30/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/1.6",
-      "polyline": "-6.1592940 106.8367080",
-      "start_date": "2026-06-05T00:00:00+07:00",
-      "end_date": "2026-05-30T00:00:00+07:00"
-    },
-    {
-      "id": "e152a6c4-1111-4e79-9d7a-ed31d8a57b30",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/1.7\n3. Jadwal Pekerjaan: 31/05/2026 s/d 24/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/1.7",
-      "polyline": "-6.1591810 106.8368920",
-      "start_date": "2026-05-31T00:00:00+07:00",
-      "end_date": "2026-06-24T00:00:00+07:00"
-    },
-    {
-      "id": "97e34b67-0656-4e7f-b8f8-3677e667ab05",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/1.8\n3. Jadwal Pekerjaan: 04-10-2026 s/d 28/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/1.8",
-      "polyline": "-6.1586670 106.8367810",
-      "start_date": "2026-10-04T00:00:00+07:00",
-      "end_date": "2026-05-28T00:00:00+07:00"
-    },
-    {
-      "id": "4573c9fc-a4bf-4ff0-836e-b1c5e3e5fafe",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/1.9\n3. Jadwal Pekerjaan: 29/05/2026 s/d 16/07/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/1.9",
-      "polyline": "-6.1580500 106.8366470",
-      "start_date": "2026-05-29T00:00:00+07:00",
-      "end_date": "2026-07-16T00:00:00+07:00"
-    },
-    {
-      "id": "1a4fc3df-6dfe-4694-be3f-0901312b7bec",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/2.0\n3. Jadwal Pekerjaan: 17/04/2026 s/d 06-04-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/2.0",
-      "polyline": "-6.1571720 106.8364250",
-      "start_date": "2026-04-17T00:00:00+07:00",
-      "end_date": "2026-04-06T00:00:00+07:00"
-    },
-    {
-      "id": "f96b9fe9-d581-43c0-b4b6-2f80ddfc74a6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/2.1\n3. Jadwal Pekerjaan: 07-12-2026 s/d 24/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/2.1",
-      "polyline": "-6.1568220 106.8363390",
-      "start_date": "2026-12-07T00:00:00+07:00",
-      "end_date": "2026-08-24T00:00:00+07:00"
-    },
-    {
-      "id": "88882d9e-5f87-4bd6-9983-800c3a804511",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/2.2\n3. Jadwal Pekerjaan: 25/08/2026 s/d 10-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/2.2",
-      "polyline": "-6.1561110 106.8361610",
-      "start_date": "2026-08-25T00:00:00+07:00",
-      "end_date": "2026-07-10T00:00:00+07:00"
-    },
-    {
-      "id": "cdc7f707-11c9-42ed-9a55-486e576913ca",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/2.3\n3. Jadwal Pekerjaan: 25/04/2026 s/d 06-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/2.3",
-      "polyline": "-6.1552330 106.8359420",
-      "start_date": "2026-04-25T00:00:00+07:00",
-      "end_date": "2026-07-06T00:00:00+07:00"
-    },
-    {
-      "id": "192c6c09-2042-472b-9ea9-180a0fe83fc8",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/2.4\n3. Jadwal Pekerjaan: 22/05/2026 s/d 07-09-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/2.4",
-      "polyline": "-6.1540000 106.8356190",
-      "start_date": "2026-05-22T00:00:00+07:00",
-      "end_date": "2026-09-07T00:00:00+07:00"
-    },
-    {
-      "id": "0d83adda-9485-4cca-b907-df6f15da8625",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/2.5\n3. Jadwal Pekerjaan: 07-10-2026 s/d 27/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/2.5",
-      "polyline": "-6.1527800 106.8353040",
-      "start_date": "2026-10-07T00:00:00+07:00",
-      "end_date": "2026-08-27T00:00:00+07:00"
-    },
-    {
-      "id": "0ce23ad2-3f37-44ec-b287-345f883d6d97",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/2.6\n3. Jadwal Pekerjaan: 28/08/2026 s/d 28/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/2.6",
-      "polyline": "-6.1515470 106.8349940",
-      "start_date": "2026-08-28T00:00:00+07:00",
-      "end_date": "2026-08-28T00:00:00+07:00"
-    },
-    {
-      "id": "f08fd421-6f9b-4461-b166-43e4128ee319",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/2.7\n3. Jadwal Pekerjaan: 29/08/2026 s/d 29/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/2.7",
-      "polyline": "-6.1503250 106.8346670",
-      "start_date": "2026-08-29T00:00:00+07:00",
-      "end_date": "2026-08-29T00:00:00+07:00"
-    },
-    {
-      "id": "50053d74-a5d4-4cb6-8d60-4623b96bed59",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/2.8\n3. Jadwal Pekerjaan: 19/07/2026 s/d 21/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/2.8",
-      "polyline": "-6.1492850 106.8343350",
-      "start_date": "2026-07-19T00:00:00+07:00",
-      "end_date": "2026-08-21T00:00:00+07:00"
-    },
-    {
-      "id": "7582abef-8e09-4838-adfb-a5c44d6ec854",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/3.0\n3. Jadwal Pekerjaan: 30/06/2026 s/d 08-02-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/3.0",
-      "polyline": "-6.1489620 106.8334570",
-      "start_date": "2026-06-30T00:00:00+07:00",
-      "end_date": "2026-02-08T00:00:00+07:00"
-    },
-    {
-      "id": "7d375cb0-fed2-4f30-9bf5-3bf20002efae",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/4.0\n3. Jadwal Pekerjaan: 19/07/2026 s/d 18/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/4.0",
-      "polyline": "-6.1491140 106.8339910",
-      "start_date": "2026-07-19T00:00:00+07:00",
-      "end_date": "2026-08-18T00:00:00+07:00"
-    },
-    {
-      "id": "fb432604-eaa8-49bb-a1da-27c4925b23b2",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/4.1\n3. Jadwal Pekerjaan: 08-07-2026 s/d 09-03-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/4.1",
-      "polyline": "-6.1482890 106.8340190",
-      "start_date": "2026-07-08T00:00:00+07:00",
-      "end_date": "2026-03-09T00:00:00+07:00"
-    },
-    {
-      "id": "f438de15-e5b9-4497-80ad-81ce5563d7f9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/4.2\n3. Jadwal Pekerjaan: 01-11-2026 s/d 20/02/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/4.2",
-      "polyline": "-6.1470190 106.8337360",
-      "start_date": "2026-11-01T00:00:00+07:00",
-      "end_date": "2026-02-20T00:00:00+07:00"
-    },
-    {
-      "id": "a727b0cb-7e74-4aa6-bbfd-104efcb4b68c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/4.3\n3. Jadwal Pekerjaan: 21/02/2026 s/d 04-02-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/4.3",
-      "polyline": "-6.1456170 106.8337330",
-      "start_date": "2026-02-21T00:00:00+07:00",
-      "end_date": "2026-02-04T00:00:00+07:00"
-    },
-    {
-      "id": "bcee1388-53dd-4e43-8522-fdd5a2e04164",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/4.4\n3. Jadwal Pekerjaan: 04-03-2026 s/d 13/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/4.4",
-      "polyline": "-6.1448890 106.8326780",
-      "start_date": "2026-03-04T00:00:00+07:00",
-      "end_date": "2026-05-13T00:00:00+07:00"
-    },
-    {
-      "id": "0f1fd3d6-64e2-4eca-b22a-9389770bdb0c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/4.5\n3. Jadwal Pekerjaan: 14/05/2026 s/d 23/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/4.5",
-      "polyline": "-6.1442470 106.8316190",
-      "start_date": "2026-05-14T00:00:00+07:00",
-      "end_date": "2026-06-23T00:00:00+07:00"
-    },
-    {
-      "id": "09719ba8-711a-470d-b03c-52e1f2a56929",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/4.6\n3. Jadwal Pekerjaan: 24/06/2026 s/d 08-03-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/4.6",
-      "polyline": "-6.1434310 106.8304060",
-      "start_date": "2026-06-24T00:00:00+07:00",
-      "end_date": "2026-03-08T00:00:00+07:00"
     },
     {
       "id": "09fd9da9-9fab-41db-83c4-2beec4591360",
@@ -7776,28 +5721,6 @@
       "end_date": "2026-10-24T00:00:00+07:00"
     },
     {
-      "id": "97075566-4500-4c2d-b88e-1cd8e69e085c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/5.0\n3. Jadwal Pekerjaan: 01-11-2026 s/d 03-03-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/5.0",
-      "polyline": "-6.1411720 106.8269810",
-      "start_date": "2026-11-01T00:00:00+07:00",
-      "end_date": "2026-03-03T00:00:00+07:00"
-    },
-    {
-      "id": "b9479f6b-2416-43c1-b773-0a82c4a809cb",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/5.1\n3. Jadwal Pekerjaan: 03-04-2026 s/d 03-04-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/5.1",
-      "polyline": "-6.1406720 106.8243530",
-      "start_date": "2026-04-03T00:00:00+07:00",
-      "end_date": "2026-04-03T00:00:00+07:00"
-    },
-    {
       "id": "0ea80eee-82ce-409b-a0b8-2e556310df6c",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -7807,204 +5730,6 @@
       "polyline": "-6.1401360 106.8216920",
       "start_date": "2025-11-20T00:00:00+07:00",
       "end_date": "2026-10-01T00:00:00+07:00"
-    },
-    {
-      "id": "a75e1600-7361-4875-abd8-76012e8e1c12",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/5.3\n3. Jadwal Pekerjaan: 25/11/2025 s/d 20/01/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/5.3",
-      "polyline": "-6.1395810 106.8190260",
-      "start_date": "2025-11-25T00:00:00+07:00",
-      "end_date": "2026-01-20T00:00:00+07:00"
-    },
-    {
-      "id": "7900ba5c-b169-4d06-99bb-cb919192b4ca",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/5.3A\n3. Jadwal Pekerjaan: 20/02/2026 s/d 04-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/5.3A",
-      "polyline": "-6.1392770 106.8178230",
-      "start_date": "2026-02-20T00:00:00+07:00",
-      "end_date": "2026-05-04T00:00:00+07:00"
-    },
-    {
-      "id": "9e63d44a-960f-422f-b595-5216b7980c91",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/6.0\n3. Jadwal Pekerjaan: 25/02/2026 s/d 26/03/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/6.0",
-      "polyline": "-6.1351920 106.8304440",
-      "start_date": "2026-02-25T00:00:00+07:00",
-      "end_date": "2026-03-26T00:00:00+07:00"
-    },
-    {
-      "id": "1d0ddeb1-7729-42f8-bd69-c5cb777a7283",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole\n2. Lokasi: E-12/6.1\n3. Jadwal Pekerjaan: 26/01/2026 s/d 24/02/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/6.1",
-      "polyline": "-6.1356300 106.8295450",
-      "start_date": "2026-01-26T00:00:00+07:00",
-      "end_date": "2026-02-24T00:00:00+07:00"
-    },
-    {
-      "id": "2162086a-9264-482c-b066-4c03428fc9c0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/6.2\n3. Jadwal Pekerjaan: 25/02/2026 s/d 26/03/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/6.2",
-      "polyline": "-6.1358590 106.8285340",
-      "start_date": "2026-02-25T00:00:00+07:00",
-      "end_date": "2026-03-26T00:00:00+07:00"
-    },
-    {
-      "id": "79f56639-0721-4937-bd71-81790b7859c5",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole, perkerasan permanent\n2. Lokasi: E-12/6.2a\n3. Jadwal Pekerjaan: 14/04/2026 s/d 13/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/6.2a",
-      "polyline": "-6.1360800 106.8274780",
-      "start_date": "2026-04-14T00:00:00+07:00",
-      "end_date": "2026-05-13T00:00:00+07:00"
-    },
-    {
-      "id": "58a2ae88-9932-4b31-a649-6ef79c0dc771",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan manhole, perkerasan permanent\n2. Lokasi: E-12/6.3\n3. Jadwal Pekerjaan: 18/04/2026 s/d 17/05/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/6.3",
-      "polyline": "-6.1362190 106.8265840",
-      "start_date": "2026-04-18T00:00:00+07:00",
-      "end_date": "2026-05-17T00:00:00+07:00"
-    },
-    {
-      "id": "97849e0d-b24f-4e16-8b41-1810bf0f5e14",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/7.0\n3. Jadwal Pekerjaan: 04-01-2026 s/d 05-01-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/7.0",
-      "polyline": "-6.1363760 106.8255730",
-      "start_date": "2026-01-04T00:00:00+07:00",
-      "end_date": "2026-01-05T00:00:00+07:00"
-    },
-    {
-      "id": "723de422-c022-475b-8519-3e098fa687e0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/7.1\n3. Jadwal Pekerjaan: 03-01-2026 s/d 31/03/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/7.1",
-      "polyline": "-6.1365150 106.8246610",
-      "start_date": "2026-01-03T00:00:00+07:00",
-      "end_date": "2026-03-31T00:00:00+07:00"
-    },
-    {
-      "id": "dabf1d7f-3339-4710-8469-c38157e344ca",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/7.2\n3. Jadwal Pekerjaan: 02-03-2026 s/d 03-06-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/7.2",
-      "polyline": "-6.1366170 106.8231970",
-      "start_date": "2026-03-02T00:00:00+07:00",
-      "end_date": "2026-06-03T00:00:00+07:00"
-    },
-    {
-      "id": "db69ae3f-1f51-4654-9221-63ae7c0bb7a8",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan jacking pipa\n2. Lokasi: E-12/7.3\n3. Jadwal Pekerjaan: 07-01-2026 s/d 08-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/7.3",
-      "polyline": "-6.1368280 106.8217860",
-      "start_date": "2026-01-07T00:00:00+07:00",
-      "end_date": "2026-07-08T00:00:00+07:00"
-    },
-    {
-      "id": "258caed4-353c-44ab-b791-a3b0fdad6c82",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: pekerjaan jacking pipa\n2. Lokasi: E-12/7.4\n3. Jadwal Pekerjaan: 14/03/2026 s/d 05-03-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/7.4",
-      "polyline": "-6.1369920 106.8208780",
-      "start_date": "2026-03-14T00:00:00+07:00",
-      "end_date": "2026-03-05T00:00:00+07:00"
-    },
-    {
-      "id": "f385f3c3-cee7-4e85-b580-deb8489b7e05",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/7.5\n3. Jadwal Pekerjaan: 03-01-2026 s/d 14/04/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/7.5",
-      "polyline": "-6.1372640 106.8196440",
-      "start_date": "2026-01-03T00:00:00+07:00",
-      "end_date": "2026-04-14T00:00:00+07:00"
-    },
-    {
-      "id": "ace23f1f-5f79-4e79-8bdf-b6c7e6073c52",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: selesai\n2. Lokasi: E-12/7.6\n3. Jadwal Pekerjaan: 02-03-2026 s/d 04-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/7.6",
-      "polyline": "-6.1375280 106.8184530",
-      "start_date": "2026-03-02T00:00:00+07:00",
-      "end_date": "2026-08-04T00:00:00+07:00"
-    },
-    {
-      "id": "d112479a-8911-4119-94c5-8e421fb06b75",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Perkerasan Permanent\n2. Lokasi: E-12/8.0\n3. Jadwal Pekerjaan: 15/04/2026 s/d 21/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 5",
-      "street": "E-12/8.0",
-      "polyline": "-6.1378310 106.8171940",
-      "start_date": "2026-04-15T00:00:00+07:00",
-      "end_date": "2026-06-21T00:00:00+07:00"
-    },
-    {
-      "id": "41fc7aeb-4a77-41c7-bab3-97db030911d8",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-3.2A\n3. Jadwal Pekerjaan: 15/04/2026 s/d 21/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-3.2A",
-      "polyline": "-6.1450720 106.7935504",
-      "start_date": "2026-04-15T00:00:00+07:00",
-      "end_date": "2026-06-21T00:00:00+07:00"
-    },
-    {
-      "id": "c66c5eb7-3895-4a8f-a55a-63b3e2c532fb",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-3.2B\n3. Jadwal Pekerjaan: 15/04/2026 s/d 21/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-3.2B",
-      "polyline": "-6.1438155 106.7934427",
-      "start_date": "2026-04-15T00:00:00+07:00",
-      "end_date": "2026-06-21T00:00:00+07:00"
-    },
-    {
-      "id": "441e838b-8949-4f03-8c1f-704d33594ae7",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-7/4.2\n3. Jadwal Pekerjaan: 15/04/2026 s/d 21/06/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-7/4.2",
-      "polyline": "-6.1186168 106.7834461",
-      "start_date": "2026-04-15T00:00:00+07:00",
-      "end_date": "2026-06-21T00:00:00+07:00"
     },
     {
       "id": "6a3fb822-1cb1-4978-a55f-3332f63c4088",
@@ -8071,50 +5796,6 @@
       "polyline": "-6.1373123 106.7927564",
       "start_date": "2026-07-15T00:00:00+07:00",
       "end_date": "2026-10-12T00:00:00+07:00"
-    },
-    {
-      "id": "765d5fc2-3ec6-43e4-a4e8-8fd4f52b6add",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Perkerasan Kembali\n2. Lokasi: N-2.1\n3. Jadwal Pekerjaan: 08-02-2026 s/d 09-03-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "N-2.1",
-      "polyline": "-6.1177907 106.7856557",
-      "start_date": "2026-02-08T00:00:00+07:00",
-      "end_date": "2026-03-09T00:00:00+07:00"
-    },
-    {
-      "id": "e3285069-8857-4ae8-941b-8152bcd7e118",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: N-3.1\n3. Jadwal Pekerjaan: 08-02-2026 s/d 09-03-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "N-3.1",
-      "polyline": "-6.1177487 106.7890423",
-      "start_date": "2026-02-08T00:00:00+07:00",
-      "end_date": "2026-03-09T00:00:00+07:00"
-    },
-    {
-      "id": "86f0a5e5-da68-4e4b-9c61-b809f5b0b0e3",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: N-3.2\n3. Jadwal Pekerjaan: 08-02-2026 s/d 09-03-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "N-3.2",
-      "polyline": "-6.1177400 106.7900461",
-      "start_date": "2026-02-08T00:00:00+07:00",
-      "end_date": "2026-03-09T00:00:00+07:00"
-    },
-    {
-      "id": "c8394437-4470-47e3-a488-221ca6c6d36a",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: N-3.3\n3. Jadwal Pekerjaan: 08-02-2026 s/d 09-03-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "N-3.3",
-      "polyline": "-6.1177280 106.7910681",
-      "start_date": "2026-02-08T00:00:00+07:00",
-      "end_date": "2026-03-09T00:00:00+07:00"
     },
     {
       "id": "0b4ce0aa-6e58-4e57-b763-e88e6362d293",
@@ -8203,50 +5884,6 @@
       "polyline": "-6.1426190 106.7959200",
       "start_date": "2026-03-09T00:00:00+07:00",
       "end_date": "2026-09-28T00:00:00+07:00"
-    },
-    {
-      "id": "2c9f5c93-0e5f-4c43-ae79-8c0abfc1e158",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Diversion Chamber dan Perkerasan Kembali\n2. Lokasi: W-4/2.5\n3. Jadwal Pekerjaan: 25/07/2026 s/d 11-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-4/2.5",
-      "polyline": "-6.1427080 106.7950390",
-      "start_date": "2026-07-25T00:00:00+07:00",
-      "end_date": "2026-08-11T00:00:00+07:00"
-    },
-    {
-      "id": "83453c62-8785-4432-980c-0deb7aeee995",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-4/2.6\n3. Jadwal Pekerjaan: 25/07/2026 s/d 11-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-4/2.6",
-      "polyline": "-6.1428220 106.7942160",
-      "start_date": "2026-07-25T00:00:00+07:00",
-      "end_date": "2026-08-11T00:00:00+07:00"
-    },
-    {
-      "id": "7f5678d6-c46b-4d16-ba71-7f34f38d1763",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-5/2.0\n3. Jadwal Pekerjaan: 25/07/2026 s/d 11-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-5/2.0",
-      "polyline": "-6.1367530 106.7996657",
-      "start_date": "2026-07-25T00:00:00+07:00",
-      "end_date": "2026-08-11T00:00:00+07:00"
-    },
-    {
-      "id": "318f0913-fe60-4722-a2d0-f3db87ce4333",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-5/2.1\n3. Jadwal Pekerjaan: 25/07/2026 s/d 11-08-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-5/2.1",
-      "polyline": "-6.1368680 106.7984760",
-      "start_date": "2026-07-25T00:00:00+07:00",
-      "end_date": "2026-08-11T00:00:00+07:00"
     },
     {
       "id": "724709f9-7493-425e-a24f-385cd1822a2c",
@@ -8403,17 +6040,6 @@
       "end_date": "2026-09-16T00:00:00+07:00"
     },
     {
-      "id": "568960f6-40b2-42f7-9791-584900acb6de",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Perkerasan Kembali\n2. Lokasi: W-7/4.1A\n3. Jadwal Pekerjaan: 27/07/2026 s/d 25/08/2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-7/4.1A",
-      "polyline": "-6.1165855 106.7840416",
-      "start_date": "2026-07-27T00:00:00+07:00",
-      "end_date": "2026-08-25T00:00:00+07:00"
-    },
-    {
       "id": "49dbb8b1-a88e-41ec-a505-6aa3ef2ced0e",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -8423,17 +6049,6 @@
       "polyline": "-6.1229273 106.7832281",
       "start_date": "2026-01-06T00:00:00+07:00",
       "end_date": "2026-09-27T00:00:00+07:00"
-    },
-    {
-      "id": "12d32716-0806-44ad-ab69-1d04e4debd74",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Perkerasan Kembali\n2. Lokasi: N-4.0\n3. Jadwal Pekerjaan: 08-04-2026 s/d 09-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "N-4.0",
-      "polyline": "-6.1176611 106.7941447",
-      "start_date": "2026-04-08T00:00:00+07:00",
-      "end_date": "2026-05-09T00:00:00+07:00"
     },
     {
       "id": "d5944662-4971-4bac-ac23-ab9f8d9f6445",
@@ -8469,28 +6084,6 @@
       "end_date": "2026-10-20T00:00:00+07:00"
     },
     {
-      "id": "560aa8b6-f2fa-4509-a975-8bc2789b925d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Manhole, Persil Pipe, dan Perkerasan Kembali\n2. Lokasi: W-7/9.0\n3. Jadwal Pekerjaan: 07-01-2026 s/d 12-06-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-7/9.0",
-      "polyline": "-6.1256957 106.7852882",
-      "start_date": "2026-01-07T00:00:00+07:00",
-      "end_date": "2026-06-12T00:00:00+07:00"
-    },
-    {
-      "id": "f86f2c20-6c27-4461-973c-ef7804516f3d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-7/9.1\n3. Jadwal Pekerjaan: 07-01-2026 s/d 12-06-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-7/9.1",
-      "polyline": "-6.1261278 106.7879778",
-      "start_date": "2026-01-07T00:00:00+07:00",
-      "end_date": "2026-06-12T00:00:00+07:00"
-    },
-    {
       "id": "e37b379b-5e91-4e5b-9f5e-a26e18d58933",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -8524,72 +6117,6 @@
       "end_date": "2026-09-15T00:00:00+07:00"
     },
     {
-      "id": "d263e992-52b4-4800-89fb-bf25941bc9c7",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Manhole, Persil Pipe, dan Perkerasan Kembali\n2. Lokasi: W-7/7.0\n3. Jadwal Pekerjaan: 07-01-2026 s/d 12-02-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-7/7.0",
-      "polyline": "-6.1254626 106.7832841",
-      "start_date": "2026-01-07T00:00:00+07:00",
-      "end_date": "2026-02-12T00:00:00+07:00"
-    },
-    {
-      "id": "2c6dbbbb-2195-4097-847e-86fa74fe2165",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-7/1.3\n3. Jadwal Pekerjaan: 07-01-2026 s/d 12-02-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-7/1.3",
-      "polyline": "-6.1127370 106.7719450",
-      "start_date": "2026-01-07T00:00:00+07:00",
-      "end_date": "2026-02-12T00:00:00+07:00"
-    },
-    {
-      "id": "e3a42aca-913b-40dd-a4f1-a0b111ed4bc1",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Diversion Chamber dan Perkerasan Kembali\n2. Lokasi: W-7/7.0/1.0\n3. Jadwal Pekerjaan: 05-12-2026 s/d 09-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-7/7.0/1.0",
-      "polyline": "-6.1246030 106.7832480",
-      "start_date": "2026-12-05T00:00:00+07:00",
-      "end_date": "2026-07-09T00:00:00+07:00"
-    },
-    {
-      "id": "e6cec267-7eb6-4e30-a947-c313efbfd1ea",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-4.0\n3. Jadwal Pekerjaan: 05-12-2026 s/d 09-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-4.0",
-      "polyline": "-6.1429740 106.7932181",
-      "start_date": "2026-12-05T00:00:00+07:00",
-      "end_date": "2026-07-09T00:00:00+07:00"
-    },
-    {
-      "id": "6966cc3a-23d8-496e-9fd7-52b527880cb9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Crossing Sungai, Manhole, Diversion Chamber, dan Perkerasan Kembali\n2. Lokasi: W-3.0\n3. Jadwal Pekerjaan: 21/05/2026 s/d 12-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-3.0",
-      "polyline": "-6.1490993 106.7948440",
-      "start_date": "2026-05-21T00:00:00+07:00",
-      "end_date": "2026-07-12T00:00:00+07:00"
-    },
-    {
-      "id": "0de0a9a5-4824-4417-8461-86bdd16d1d9d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-7/2.0\n3. Jadwal Pekerjaan: 21/05/2026 s/d 12-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-7/2.0",
-      "polyline": "-6.1121120 106.7731775",
-      "start_date": "2026-05-21T00:00:00+07:00",
-      "end_date": "2026-07-12T00:00:00+07:00"
-    },
-    {
       "id": "802b7d7d-f06d-4cb7-94b0-95c70f51f024",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -8621,17 +6148,6 @@
       "polyline": "-6.1492670 106.7957460",
       "start_date": "2026-10-16T00:00:00+07:00",
       "end_date": "2026-10-24T00:00:00+07:00"
-    },
-    {
-      "id": "abb93f3b-9ac8-48fa-8db2-8419d4b557ba",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Perkerasan Kembali\n2. Lokasi: W-3/1.2\n3. Jadwal Pekerjaan: 28/10/2026 s/d 11-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-3/1.2",
-      "polyline": "-6.1486850 106.7980440",
-      "start_date": "2026-10-28T00:00:00+07:00",
-      "end_date": "2026-05-11T00:00:00+07:00"
     },
     {
       "id": "ef13bae6-1c58-4900-93e9-f6176d9c749c",
@@ -8766,50 +6282,6 @@
       "end_date": "2026-11-13T00:00:00+07:00"
     },
     {
-      "id": "c55fcf84-eed5-4977-b27b-3355c65a69ab",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Perkerasan Kembali\n2. Lokasi: N-2.2\n3. Jadwal Pekerjaan: 08-01-2026 s/d 09-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "N-2.2",
-      "polyline": "-6.1177827 106.7868217",
-      "start_date": "2026-01-08T00:00:00+07:00",
-      "end_date": "2026-05-09T00:00:00+07:00"
-    },
-    {
-      "id": "a24accb6-64b5-4bd3-ad61-d711c7058027",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: N-3.0\n3. Jadwal Pekerjaan: 08-01-2026 s/d 09-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "N-3.0",
-      "polyline": "-6.1177637 106.7880150",
-      "start_date": "2026-01-08T00:00:00+07:00",
-      "end_date": "2026-05-09T00:00:00+07:00"
-    },
-    {
-      "id": "eb0d633f-7fba-43e6-8d07-5c40be178a8e",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-5/1.4\n3. Jadwal Pekerjaan: 08-01-2026 s/d 09-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-5/1.4",
-      "polyline": "-6.1365110 106.8022900",
-      "start_date": "2026-01-08T00:00:00+07:00",
-      "end_date": "2026-05-09T00:00:00+07:00"
-    },
-    {
-      "id": "abe29cba-23ca-49d9-a12f-9ddc9bd0ae82",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Selesai\n2. Lokasi: W-5/1.5\n3. Jadwal Pekerjaan: 08-01-2026 s/d 09-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-5/1.5",
-      "polyline": "-6.1365997 106.8013094",
-      "start_date": "2026-01-08T00:00:00+07:00",
-      "end_date": "2026-05-09T00:00:00+07:00"
-    },
-    {
       "id": "f977012b-9f1e-4d21-92ab-954de97a4ec9",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -8909,28 +6381,6 @@
       "end_date": "2026-11-13T00:00:00+07:00"
     },
     {
-      "id": "70bdeaec-0251-4874-9f8f-8c46e595bdb5",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Diversion Chamber dan Perkerasan Kembali\n2. Lokasi: W-1.4\n3. Jadwal Pekerjaan: 17/09/2026 s/d 11-05-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-1.4",
-      "polyline": "-6.1489110 106.7982960",
-      "start_date": "2026-09-17T00:00:00+07:00",
-      "end_date": "2026-05-11T00:00:00+07:00"
-    },
-    {
-      "id": "b7014643-0b1b-4f3b-96fb-5c414479e4fc",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Diversion Chamber dan Perkerasan Kembali\n2. Lokasi: W-1.5\n3. Jadwal Pekerjaan: 09-12-2026 s/d 11-01-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-1.5",
-      "polyline": "-6.1490680 106.7972040",
-      "start_date": "2026-12-09T00:00:00+07:00",
-      "end_date": "2026-01-11T00:00:00+07:00"
-    },
-    {
       "id": "89df7d4f-8eab-46ae-bf2c-92f1d9d0cc32",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -8962,28 +6412,6 @@
       "polyline": "-6.1362960 106.8042470",
       "start_date": "2026-11-07T00:00:00+07:00",
       "end_date": "2026-11-17T00:00:00+07:00"
-    },
-    {
-      "id": "321348f7-db26-480a-b45f-d904e4b0f270",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Perkerasan Kembali\n2. Lokasi: W-7/5.0\n3. Jadwal Pekerjaan: 22/07/2026 s/d 09-07-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-7/5.0",
-      "polyline": "-6.1186983 106.7753454",
-      "start_date": "2026-07-22T00:00:00+07:00",
-      "end_date": "2026-07-09T00:00:00+07:00"
-    },
-    {
-      "id": "9ca1610d-d323-4acd-89bf-a6078939889c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Diversion Chamber dan Perkerasan Kembali\n2. Lokasi: W-3/1.1\n3. Jadwal Pekerjaan: 19/07/2026 s/d 11-01-2026\n4. Potensi dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan\n5. Penanggung Jawab: Dinas Sumber Daya Air\nJSDP Paket 6",
-      "street": "W-3/1.1",
-      "polyline": "-6.1485750 106.7987120",
-      "start_date": "2026-07-19T00:00:00+07:00",
-      "end_date": "2026-01-11T00:00:00+07:00"
     },
     {
       "id": "d9fc5792-b491-4407-a2c1-2213f59d3eb6",
@@ -9116,39 +6544,6 @@
       "polyline": "-6.1192650 106.8048200",
       "start_date": "2025-07-07T00:00:00+07:00",
       "end_date": "2027-01-22T00:00:00+07:00"
-    },
-    {
-      "id": "e17eebc0-b9fe-4a31-a74a-d9a6a57ed543",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Pekerjaan Pemasangan Pipa Metode Manual Boring (On Going)\n2. Lokasi: Jl Galunggung\n3. Jadwal Pekerjaan: 02-09-2025 s/d 13-08-2026\n4. Penanggung Jawab: PAM Jaya",
-      "street": "Jl Galunggung",
-      "polyline": "-6.2045220 106.8230790",
-      "start_date": "2025-09-02T00:00:00+07:00",
-      "end_date": "2026-08-13T00:00:00+07:00"
-    },
-    {
-      "id": "c986ce64-3b98-4441-9091-7727c7fed397",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: New Connection\n2. Lokasi: JL. CIRACAS RAYA KEL. CIRACAS KEC. CIRACAS JAKARTA TIMUR\n3. Jadwal Pekerjaan: 26-01-2026 s/d 09-03-2026\n4. Potensi dampak: Potensi dampak terhadap pejalan kaki\n5. Penanggung Jawab: PAM Jaya",
-      "street": "JL. CIRACAS RAYA KEL. CIRACAS KEC. CIRACAS JAKARTA TIMUR",
-      "polyline": "-6.3319160 106.8743200",
-      "start_date": "2026-01-26T00:00:00+07:00",
-      "end_date": "2026-03-09T00:00:00+07:00"
-    },
-    {
-      "id": "624a35ae-2d87-43e4-b5b4-3088b5bd820d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Upsize\n2. Lokasi: Jl. Pademangan 7 RT.015/RW.001 Pademangan Timur Jakarta 14410\n3. Jadwal Pekerjaan: 26-04-2026 s/d 12-05-2026\n4. Potensi dampak: Potensi dampak terhadap pejalan kaki\n5. Penanggung Jawab: PAM Jaya",
-      "street": "Jl. Pademangan 7 RT.015/RW.001 Pademangan Timur Jakarta 14410",
-      "polyline": "-6.1314480 106.8446070",
-      "start_date": "2026-04-26T00:00:00+07:00",
-      "end_date": "2026-05-12T00:00:00+07:00"
     },
     {
       "id": "89b32ebf-58d4-4a27-96b6-3dc464b17da0",
@@ -9305,17 +6700,6 @@
       "end_date": "2026-11-26T00:00:00+07:00"
     },
     {
-      "id": "923da773-69b3-40a7-9a24-ffefffb20b81",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: 1. Boring Horizontal Directional Drilling (HDD) and HDPE Pipe Installation.\n2. Installation Joint Pit Precast\n3. Reinstatement\n2. Lokasi: SKTT 150 kV Ruas GI Karet Lama - RSS Monas - JP 3\n3. Jadwal Pekerjaan: 26-07-2026 s/d 26-08-2026\n4. Potensi dampak: Dampak terhadap lalu lintas adanya pemagaran\n5. Penanggung Jawab: PT MRT Jakarta",
-      "street": "SKTT 150 kV Ruas GI Karet Lama - RSS Monas - JP 3",
-      "polyline": "-6.1932140 106.8145650",
-      "start_date": "2026-07-26T00:00:00+07:00",
-      "end_date": "2026-08-26T00:00:00+07:00"
-    },
-    {
       "id": "69321014-d261-4422-b124-de2b4767e7f3",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -9413,330 +6797,6 @@
       "polyline": "-6.1803420 106.8320290",
       "start_date": "2026-06-26T00:00:00+07:00",
       "end_date": "2026-12-26T00:00:00+07:00"
-    },
-    {
-      "id": "2d8415e3-b7b8-4b63-a023-13ca401dc404",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Boring Horizontal Directional Drilling (HDD) and HDPE Pipe Installation serta reinstametent lokasi pekerjaan\n2. Lokasi: SKTT 150 kV Ruas GI Karet Lama - RSS Monas - CP1A\n3. Jadwal Pekerjaan: TBU s/d TBU\n4. Potensi dampak: Dampak terhadap lalu lintas adanya pemagaran pada area Taman\n5. Penanggung Jawab: PT MRT Jakarta",
-      "street": "SKTT 150 kV Ruas GI Karet Lama - RSS Monas - CP1A",
-      "polyline": "-6.1996970 106.8119490"
-    },
-    {
-      "id": "92cd7c80-a945-4741-86c1-20483e951001",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: Boring Horizontal Directional Drilling (HDD) and HDPE Pipe Installation serta reinstametent lokasi pekerjaan\n2. Lokasi: SKTT 150 kV Ruas GI Karet Lama - RSS Monas - CP1B\n3. Jadwal Pekerjaan: TBU s/d TBU\n4. Potensi dampak: Dampak terhadap lalu lintas adanya pemagaran pada area Taman\n5. Penanggung Jawab: PT MRT Jakarta",
-      "street": "SKTT 150 kV Ruas GI Karet Lama - RSS Monas - CP1B",
-      "polyline": "-6.2003700 106.8134600"
-    },
-    {
-      "id": "cd5b057e-8a8e-4da5-a392-0b4f6629a022",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Jenis Pekerjaan: 1. Boring Horizontal Directional Drilling (HDD) and HDPE Pipe Installation.\n2. Installation Joint Pit Precast\n3. Pulling Cable 150kV UCG\n4. Reinstatement\n2. Lokasi: SKTT 150 kV Ruas GI Karet Lama - RSS Monas - JP1\n3. Jadwal Pekerjaan: TBU s/d TBU\n4. Potensi dampak: Dampak terhadap lalu lintas adanya pemagaran pada area Taman\n5. Penanggung Jawab: PT MRT Jakarta",
-      "street": "SKTT 150 kV Ruas GI Karet Lama - RSS Monas - JP1",
-      "polyline": "-6.2005840 106.8143820"
-    },
-    {
-      "id": "8cdcbec5-6977-4b1c-abad-73db2353b2bf",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah di Kawasan TB. Simatupang\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: TB Simatupang - Area Jl TB. Simatupang Cilandak Timur Sisi utara\n4. Jadwal Pekerjaan: 17-01-2025 s/d 31-10-2026\n5. Potensi dampak: Posisi di jalan, memakan 2 lajur mobil, masih terdapat akses pejalan kaki\n6. Rekayasa/alternatif akses: Jalan cukup lebar pada lokasi\n7. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang - Area Jl TB. Simatupang Cilandak Timur Sisi utara",
-      "polyline": "-6.2919356 106.8074903"
-    },
-    {
-      "id": "44747518-079b-49e8-9f48-74ac5a53e75e",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah di Kawasan TB. Simatupang\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: TB Simatupang - Area Taman Tol Desari Cilandak Timur\n4. Jadwal Pekerjaan: 17-01-2025 s/d 31-10-2026\n5. Potensi dampak: Posisi di private area\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang - Area Taman Tol Desari Cilandak Timur",
-      "polyline": "-6.2918645 106.8064337"
-    },
-    {
-      "id": "2535159f-5a3e-4f86-bff5-00ccc09220f6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah di Kawasan TB. Simatupang\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: TB Simatupang - Area Ipa Cilandak\n4. Jadwal Pekerjaan: 17-01-2025 s/d 31-10-2026\n5. Potensi dampak: Posisi di private area\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang - Area Ipa Cilandak",
-      "polyline": "-6.2928765 106.8059442"
-    },
-    {
-      "id": "682c813d-b505-4242-aeea-fbe4b2fb309d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air LImbah dan HI Gedung Black Owl\n2. Jenis Pekerjaan: Boring Mesin Pipa Air Limbah\n3. Lokasi: Kawasan SCBD\n4. Jadwal Pekerjaan: 27-07-2026 s/d 27-08-2026\n5. Potensi dampak: Posisi di private area\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Kawasan SCBD",
-      "polyline": "-6.2272447 106.8077383"
-    },
-    {
-      "id": "9361b2f1-f779-45b1-867e-57b0b857fe0c",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah di Kawasan TB. Simatupang\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: TB Simatupang - Area Taman Tol Desari Cilandak Barat\n4. Jadwal Pekerjaan: 17-01-2025 s/d 31-10-2026\n5. Potensi dampak: Posisi di private area\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang - Area Taman Tol Desari Cilandak Barat",
-      "polyline": "-6.2928300 106.8047163"
-    },
-    {
-      "id": "88e10fd7-acf0-4246-82ad-f6f23a18e154",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah di Kawasan TB. Simatupang\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: TB Simatupang - Area Gedung Sovereign\n4. Jadwal Pekerjaan: 17-01-2025 s/d 31-10-2026\n5. Potensi dampak: Posisi di private area, mengenai pejalan kaki\n6. Rekayasa/alternatif akses: Adanya pembatas pejalan kaki, lebar 60 cm\n7. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang - Area Gedung Sovereign",
-      "polyline": "-6.2927542 106.8032952"
-    },
-    {
-      "id": "9b2222d7-20a0-4a19-85c0-0c17eb97e9c4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah di Kawasan TB. Simatupang\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: TB Simatupang - Area Gedung JGC\n4. Jadwal Pekerjaan: 17-01-2025 s/d 31-10-2026\n5. Potensi dampak: Posisi di private area, mengenai pejalan kaki\n6. Rekayasa/alternatif akses: Adanya pembatas pejalan kaki, lebar 60 cm\n7. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang - Area Gedung JGC",
-      "polyline": "-6.2927185 106.8019847"
-    },
-    {
-      "id": "9991133f-a2b7-4398-9fd5-fa70fcf590a0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah di Kawasan TB. Simatupang\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: TB Simatupang - Area Gedung OLX\n4. Jadwal Pekerjaan: 17-01-2025 s/d 31-10-2026\n5. Potensi dampak: Posisi di private area\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang - Area Gedung OLX",
-      "polyline": "-6.2926999 106.8006226"
-    },
-    {
-      "id": "1fdd86fa-da23-4983-858a-762da0cfda03",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah di Kawasan TB. Simatupang\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: TB Simatupang - Area Gedung Kinarya Selaras\n4. Jadwal Pekerjaan: 17-01-2025 s/d 31-10-2026\n5. Potensi dampak: Posisi di private area\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang - Area Gedung Kinarya Selaras",
-      "polyline": "-6.2926555 106.7995359"
-    },
-    {
-      "id": "1b478511-86ef-4694-9118-7397b1ead102",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah di Kawasan TB. Simatupang\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: TB Simatupang - Area Fatmawaty City Center\n4. Jadwal Pekerjaan: 17-01-2025 s/d 31-10-2026\n5. Potensi dampak: Posisi di private area\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang - Area Fatmawaty City Center",
-      "polyline": "-6.2926327 106.7983503"
-    },
-    {
-      "id": "728fc3fe-4f32-432d-97d2-0db369902e77",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air LImbah dan HI Gedung Koni Jl gelora\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: Jl Gelora Kec Tanah Abang Jakarta Selatan\n4. Jadwal Pekerjaan: 01-10-2026 s/d 30-03-2027\n5. Potensi dampak: Posisi di trotoar , Mengenai pejalan kaki\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl Gelora Kec Tanah Abang Jakarta Selatan",
-      "polyline": "-6.2149348 106.7978710"
-    },
-    {
-      "id": "9adcf882-3f0d-4a2e-abeb-050033a2c4c2",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air LImbah dan HI Gedung Koni Jl gelora\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: Jl Gelora Kec Tanah Abang Jakarta Selatan\n4. Jadwal Pekerjaan: 01-10-2026 s/d 30-03-2027\n5. Potensi dampak: Posisi di trotoar , Mengenai pejalan kaki\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl Gelora Kec Tanah Abang Jakarta Selatan",
-      "polyline": "-6.2140890 106.7978496"
-    },
-    {
-      "id": "537d6281-c9a2-45c5-9de1-c2b6758fb030",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air LImbah dan HI Gedung Koni Jl gelora\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: Jl Gelora Kec Tanah Abang Jakarta Selatan\n4. Jadwal Pekerjaan: 01-10-2026 s/d 30-03-2027\n5. Potensi dampak: Posisi di trotoar , Mengenai pejalan kaki\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl Gelora Kec Tanah Abang Jakarta Selatan",
-      "polyline": "-6.2133796 106.7977442"
-    },
-    {
-      "id": "d6ee1b93-382d-49d5-8c43-dba3068bf648",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air LImbah dan HI Gedung Koni Jl gelora\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: Jl Gelora Kec Tanah Abang Jakarta Selatan\n4. Jadwal Pekerjaan: 01-10-2026 s/d 30-03-2027\n5. Potensi dampak: Posisi di trotoar , Mengenai pejalan kaki\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl Gelora Kec Tanah Abang Jakarta Selatan",
-      "polyline": "-6.2121644 106.7972644"
-    },
-    {
-      "id": "903bcfc4-6551-4708-b8fb-294b4eff8657",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air LImbah dan HI Gedung Koni Jl gelora\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: Jl Gelora Kec Tanah Abang Jakarta Selatan\n4. Jadwal Pekerjaan: 01-10-2026 s/d 30-03-2027\n5. Potensi dampak: Posisi di trotoar , Mengenai pejalan kaki\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl Gelora Kec Tanah Abang Jakarta Selatan",
-      "polyline": "-6.2115311 106.7968337"
-    },
-    {
-      "id": "a8f72c05-347f-4b88-aa81-328eba4f4e73",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air LImbah dan HI Gedung Koni Jl gelora\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: Jl Gelora Kec Tanah Abang Jakarta Selatan\n4. Jadwal Pekerjaan: 01-10-2026 s/d 30-03-2027\n5. Potensi dampak: Posisi di trotoar , Mengenai pejalan kaki\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl Gelora Kec Tanah Abang Jakarta Selatan",
-      "polyline": "-6.2109887 106.7966312"
-    },
-    {
-      "id": "c46139ea-539d-49ee-bb1d-5c35e3e2ffb1",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air LImbah dan HI Gedung Koni Jl gelora\n2. Jenis Pekerjaan: Pipa Air limbah - MTBM\n3. Lokasi: Jl Gelora Kec Tanah Abang Jakarta Selatan\n4. Jadwal Pekerjaan: 01-10-2026 s/d 30-03-2027\n5. Potensi dampak: Posisi di trotoar , Mengenai pejalan kaki\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl Gelora Kec Tanah Abang Jakarta Selatan",
-      "polyline": "-6.2105756 106.7965868"
-    },
-    {
-      "id": "9e955f15-58d6-45cb-b6a1-1391d97fad31",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek penyambungan Gedung All Fresh\n2. Jenis Pekerjaan: Boring Mesin Pipa Air Limbah\n3. Lokasi: TB Simatupang\n4. Jadwal Pekerjaan: 01-11-2026 s/d 31-12-2026\n5. Potensi dampak: Posisi di gang masuk jl. intan\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang",
-      "polyline": "-6.2927089 106.8018863"
-    },
-    {
-      "id": "beb3653e-0aa9-4b87-b089-4dec55bc2d57",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek penyambungan Gedung Elnusa\n2. Jenis Pekerjaan: Boring Mesin Pipa Air Limbah\n3. Lokasi: TB Simatupang\n4. Jadwal Pekerjaan: 01-11-2026 s/d 31-12-2026\n5. Potensi dampak: Posisi di gang masuk elnusa\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang",
-      "polyline": "-6.2918936 106.8100052"
-    },
-    {
-      "id": "d4a93ea9-6039-4adc-af2c-2b0792119bec",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek penyambungan Gedung Menara 165\n2. Jenis Pekerjaan: Boring Mesin Pipa Air Limbah\n3. Lokasi: TB Simatupang\n4. Jadwal Pekerjaan: 01-11-2026 s/d 31-12-2026\n5. Potensi dampak: Posisi di pedestrian jalan\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "TB Simatupang",
-      "polyline": "-6.2919521 106.8087275"
-    },
-    {
-      "id": "106345e1-6ef6-4475-8827-8f56453d2feb",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek penyambungan Halte TJ Kuningan Barat (Underpass)\n2. Jenis Pekerjaan: Boring Mesin Pipa Air Limbah\n3. Lokasi: Jl. H. Rasuna Said\n4. Jadwal Pekerjaan: 01-10-2026 s/d 01-11-2026\n5. Potensi dampak: Posisi di taman bawah LRT dan pedestrian jalan\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. H. Rasuna Said",
-      "polyline": "-6.2346511 106.8293633"
-    },
-    {
-      "id": "520c11dc-fd99-46a9-8ce8-3742f32ff822",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek penyambungan Halte TJ Patra Kuningan\n2. Jenis Pekerjaan: Boring Mesin Pipa Air Limbah\n3. Lokasi: Jl. H. Rasuna Said\n4. Jadwal Pekerjaan: 01-10-2026 s/d 01-11-2026\n5. Potensi dampak: Posisi di taman bawah LRT dan pedestrian jalan\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. H. Rasuna Said",
-      "polyline": "-6.2325188 106.8321690"
-    },
-    {
-      "id": "ed37a55c-459b-4b57-beec-562081b0800d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek penyambungan Halte TJ Kuningan\n2. Jenis Pekerjaan: Boring Manual Pipa Air Limbah\n3. Lokasi: Jl. H. Rasuna Said\n4. Jadwal Pekerjaan: 01-10-2026 s/d 01-11-2026\n5. Potensi dampak: Posisi di taman bawah LRT dan pedestrian jalan\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. H. Rasuna Said",
-      "polyline": "-6.2290863 106.8332026"
-    },
-    {
-      "id": "7916c69f-76f9-4e57-888c-eeb814186917",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek penyambungan Halte TJ Galunggung\n2. Jenis Pekerjaan: Boring Manual Pipa Air Limbah\n3. Lokasi: Jl. H. Rasuna Said\n4. Jadwal Pekerjaan: 01-10-2026 s/d 01-11-2026\n5. Potensi dampak: Posisi di taman bawah LRT dan pedestrian jalan\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. H. Rasuna Said",
-      "polyline": "-6.2044421 106.8235565"
-    },
-    {
-      "id": "98eff8fc-b26d-49f7-adfa-85de3fc66c6e",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Pembangunan Sistem Pengelolaan Air Limbah Domestik Biopal di Halte TJ Pinang Ranti\n2. Jenis Pekerjaan: Konstruksi Biopal\n3. Lokasi: Terminal Pinangranti, Jakarta Timur\n4. Jadwal Pekerjaan: 01-08-2026 s/d 01-10-2026\n5. Potensi dampak: Posisi di taman\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Terminal Pinangranti, Jakarta Timur",
-      "polyline": "-6.2911811 106.8864092"
-    },
-    {
-      "id": "b0abeac0-a286-48b5-a6fb-ca02f054ebfb",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Pembangunan Sistem Pengelolaan Air Limbah Domestik Biopal di Terminal Kebayoran Lama\n2. Jenis Pekerjaan: Konstruksi Biopal\n3. Lokasi: Terminal Kebayoran Lama, Jakarta Selatan\n4. Jadwal Pekerjaan: 01-09-2026 s/d 01-10-2026\n5. Potensi dampak: Posisi di taman\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Terminal Kebayoran Lama, Jakarta Selatan",
-      "polyline": "-6.2380434 106.7831527"
-    },
-    {
-      "id": "2656ccb4-b831-4b06-afd5-92d371f6aa35",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Pembangunan Sistem Pengelolaan Air Limbah Domestik di Halte TJ Juanda\n2. Jenis Pekerjaan: Konstruksi IPAL\n3. Lokasi: Terminal Juanda, Jakarta Pusat\n4. Jadwal Pekerjaan: 01-09-2026 s/d 01-10-2026\n5. Potensi dampak: Posisi di taman\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Terminal Juanda, Jakarta Pusat",
-      "polyline": "-6.1678417 106.8308857"
-    },
-    {
-      "id": "b7163b69-8305-4c64-b8c1-5a96a72403e0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air LImbah dan HI Gedung Sarana Sport\n2. Jenis Pekerjaan: Boring Manual Pipa Air Limbah\n3. Lokasi: Jl. Pangeran Moh Fajar\n4. Jadwal Pekerjaan: 08-09-2026 s/d 08-10-2026\n5. Potensi dampak: Posisi di private area dan jalan gang\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. Pangeran Moh Fajar",
-      "polyline": "-6.2122906 106.8316314"
-    },
-    {
-      "id": "4c76ce27-a776-4271-93b8-0418c7352199",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Proyek Pemasangan Pipa Air LImbah dan HI Rusun Pasar Rumput\n2. Jenis Pekerjaan: Boring Manual Pipa Air Limbah\n3. Lokasi: Setiabudi, Jakarta Selatan\n4. Jadwal Pekerjaan: 28-08-2026 s/d 28-09-2026\n5. Potensi dampak: Posisi di private area\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Setiabudi, Jakarta Selatan",
-      "polyline": "-6.2071680 106.8408314"
-    },
-    {
-      "id": "35e887d1-50e9-47be-aa58-d9cdaf89d81a",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek penyambungan MRT Istora Senayan\n2. Jenis Pekerjaan: Boring Mesin Pipa Air Limbah\n3. Lokasi: Jl. Jenderal Sudirman\n4. Jadwal Pekerjaan: 31-10-2026 s/d 30-12-2026\n5. Potensi dampak: Posisi di taman dan pedestrian jalan\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. Jenderal Sudirman",
-      "polyline": "-6.2234052 106.8069965"
-    },
-    {
-      "id": "1d82cd8b-f224-4e19-84a0-8c37235a38d2",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek perbaikan Air Limbah Sudirman - Plaza Sentral\n2. Jenis Pekerjaan: Boring Mesin Pipa Air Limbah\n3. Lokasi: Jl. Jenderal Sudirman\n4. Jadwal Pekerjaan: 19-09-2026 s/d 19-10-2026\n5. Potensi dampak: Posisi di taman dan pedestrian jalan\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. Jenderal Sudirman",
-      "polyline": "-6.2164722 106.8164722"
-    },
-    {
-      "id": "5d9a7735-b682-4435-91c0-f08c1401e560",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek perbaikan Air Limbah Sudirman - Sampoerna Strategic Square\n2. Jenis Pekerjaan: Revitalisasi Pipa Air Limbah\n3. Lokasi: Jl. Jenderal Sudirman\n4. Jadwal Pekerjaan: 10-03-2026 s/d 24-03-2026\n5. Potensi dampak: posisi di segitiga taman pertigaan masjid hidayatullah - sudirman\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. Jenderal Sudirman",
-      "polyline": "-6.2159722 106.8170833"
-    },
-    {
-      "id": "5509f86c-bf8d-4cb2-aa94-58c320839be5",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "1. Nama Pekerjaan: Rencana proyek perbaikan Air Limbah Sudirman - (bawah Flyover mas Mansyur)\n2. Jenis Pekerjaan: Revitalisasi Pipa Air Limbah\n3. Lokasi: Jl. Jenderal Sudirman\n4. Jadwal Pekerjaan: 10-03-2026 s/d 24-03-2026\n5. Potensi dampak: posisi di segita taman pile cap sudirman\n6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. Jenderal Sudirman",
-      "polyline": "-6.2149990 106.8181720"
     }
   ]
 }
