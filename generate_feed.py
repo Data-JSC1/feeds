@@ -3,10 +3,9 @@ import psycopg2
 from datetime import datetime
 from psycopg2.extras import RealDictCursor
 
-OUTPUT_FILE = "feed_ujicoba.json"
+OUTPUT_FILE = "feed.json"
 def waze():
-    conn = psycopg2.connect('')
-    conn = psycopg2.connect('')
+
     query = r"""
                 with data_bersih as (
                                             select a.id, a."name" as nama, b."name" as nama_kategori, a.maps_id, a.address,  
@@ -282,6 +281,9 @@ def create_incident(row):
             # f"{longitude:.7f}"
             f"{latitude:.7f} "
             f"{longitude:.7f}"
+
+            # f" {latitude:.7f} "
+            # f"{(longitude++ 0.0001):.7f}"
         )
     }
     # --------------------------------------------------------
