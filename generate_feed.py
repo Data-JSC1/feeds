@@ -5,8 +5,8 @@ from psycopg2.extras import RealDictCursor
 
 OUTPUT_FILE = "feed_ujicoba.json"
 def waze():
-    # conn = psycopg2.connect('postgresql://analytics:An4lytik009@192.168.3.89:5432/analytics')
-    conn = psycopg2.connect('postgresql://jaki_data:V6nPcxt85y6tnyDa2hfXNOnmf@192.168.3.43:5432/jakiv2_peta')
+    conn = psycopg2.connect('')
+    conn = psycopg2.connect('')
     query = r"""
                 with data_bersih as (
                                             select a.id, a."name" as nama, b."name" as nama_kategori, a.maps_id, a.address,  

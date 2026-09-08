@@ -296,7 +296,7 @@ def generate_feed():
 
     try:
         print("Connecting PostgreSQL...")
-        connection = psycopg2.connect('postgresql://postgres:data4jsc2021!@192.168.3.187:5432/data-dev')
+        connection = psycopg2.connect('')
         cursor = connection.cursor(cursor_factory=RealDictCursor)
         print("Executing query...")
         cursor.execute(SQL)
