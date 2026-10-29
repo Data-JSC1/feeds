@@ -1178,17 +1178,6 @@
       "end_date": "2026-11-17T00:00:00+07:00"
     },
     {
-      "id": "89df7d4f-8eab-46ae-bf2c-92f1d9d0cc32",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pekerjaan Diversion Chamber dan Perkerasan Kembali, Lokasi: W-1.6, Jadwal: 09-07-2026 s/d 28/10/2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 6",
-      "street": "W-1.6",
-      "polyline": "-6.1491760 106.7964440",
-      "start_date": "2026-07-09T00:00:00+07:00",
-      "end_date": "2026-10-28T00:00:00+07:00"
-    },
-    {
       "id": "f8e23b7a-b2b6-483b-af3a-c739b2e7dad2",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -1209,17 +1198,6 @@
       "polyline": "-6.1486123 106.8000393",
       "start_date": "2026-09-27T00:00:00+07:00",
       "end_date": "2026-11-17T00:00:00+07:00"
-    },
-    {
-      "id": "5da79d84-1fea-4af5-98b9-6ebde9bff1ea",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pekerjaan Diversion Chamber dan Perkerasan Kembali, Lokasi: W-3/1.0, Jadwal: 09-10-2026 s/d 28/10/2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 6",
-      "street": "W-3/1.0",
-      "polyline": "-6.1484040 106.7998740",
-      "start_date": "2026-10-09T00:00:00+07:00",
-      "end_date": "2026-10-28T00:00:00+07:00"
     },
     {
       "id": "4a8d9551-8e38-44fc-b3e1-54044b4a3fa4",
