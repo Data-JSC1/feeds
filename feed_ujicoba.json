@@ -45,17 +45,6 @@
       "end_date": "2026-11-25T00:00:00+07:00"
     },
     {
-      "id": "499d33c2-87ae-4ffc-b0e3-343e8a9c06a7",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: selesai, Lokasi: E-8/1.0, Jadwal: 24/11/25 s/d 01-11-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 5",
-      "street": "E-8/1.0",
-      "polyline": "-6.1663250 106.8332940",
-      "start_date": "2025-11-24T00:00:00+07:00",
-      "end_date": "2026-11-01T00:00:00+07:00"
-    },
-    {
       "id": "55184409-67fb-4360-bc8f-44a4c50d8fad",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -1726,50 +1715,6 @@
       "polyline": "-6.2234052 106.8069965",
       "start_date": "2026-10-31T00:00:00+07:00",
       "end_date": "2026-12-30T00:00:00+07:00"
-    },
-    {
-      "id": "7916c69f-76f9-4e57-888c-eeb814186917",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Nama Pekerjaan: Rencana proyek penyambungan Halte TJ Galunggung, Jenis Pekerjaan: Boring Manual Pipa Air Limbah, Lokasi: Jl. H. Rasuna Said, Jadwal: 01-10-2026 s/d 01-11-2026, Dampak: Posisi di taman bawah LRT dan pedestrian jalan, 6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. H. Rasuna Said",
-      "polyline": "-6.2044421 106.8235565",
-      "start_date": "2026-10-01T00:00:00+07:00",
-      "end_date": "2026-11-01T00:00:00+07:00"
-    },
-    {
-      "id": "ed37a55c-459b-4b57-beec-562081b0800d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Nama Pekerjaan: Rencana proyek penyambungan Halte TJ Kuningan, Jenis Pekerjaan: Boring Manual Pipa Air Limbah, Lokasi: Jl. H. Rasuna Said, Jadwal: 01-10-2026 s/d 01-11-2026, Dampak: Posisi di taman bawah LRT dan pedestrian jalan, 6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. H. Rasuna Said",
-      "polyline": "-6.2290863 106.8332026",
-      "start_date": "2026-10-01T00:00:00+07:00",
-      "end_date": "2026-11-01T00:00:00+07:00"
-    },
-    {
-      "id": "520c11dc-fd99-46a9-8ce8-3742f32ff822",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Nama Pekerjaan: Rencana proyek penyambungan Halte TJ Patra Kuningan, Jenis Pekerjaan: Boring Mesin Pipa Air Limbah, Lokasi: Jl. H. Rasuna Said, Jadwal: 01-10-2026 s/d 01-11-2026, Dampak: Posisi di taman bawah LRT dan pedestrian jalan, 6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. H. Rasuna Said",
-      "polyline": "-6.2325188 106.8321690",
-      "start_date": "2026-10-01T00:00:00+07:00",
-      "end_date": "2026-11-01T00:00:00+07:00"
-    },
-    {
-      "id": "106345e1-6ef6-4475-8827-8f56453d2feb",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Nama Pekerjaan: Rencana proyek penyambungan Halte TJ Kuningan Barat (Underpass), Jenis Pekerjaan: Boring Mesin Pipa Air Limbah, Lokasi: Jl. H. Rasuna Said, Jadwal: 01-10-2026 s/d 01-11-2026, Dampak: Posisi di taman bawah LRT dan pedestrian jalan, 6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Jl. H. Rasuna Said",
-      "polyline": "-6.2346511 106.8293633",
-      "start_date": "2026-10-01T00:00:00+07:00",
-      "end_date": "2026-11-01T00:00:00+07:00"
     },
     {
       "id": "d4a93ea9-6039-4adc-af2c-2b0792119bec",
