@@ -1,6 +1,28 @@
 {
   "incidents": [
     {
+      "id": "6ad3944c-50da-4d5e-b045-84957006a029",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: pekerjaan manhole, Lokasi: E-10/1.2, Jadwal: 16/02/2026 s/d 03-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 5",
+      "street": "E-10/1.2",
+      "polyline": "-6.1515330 106.8209330",
+      "start_date": "2026-02-16T00:00:00+07:00",
+      "end_date": "2026-12-03T00:00:00+07:00"
+    },
+    {
+      "id": "679d884c-83c8-4a34-9f06-d4c736842790",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: pekerjaan manhole, Lokasi: E-10/1.0, Jadwal: 19/01/2026 s/d 02-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 5",
+      "street": "E-10/1.0",
+      "polyline": "-6.1526360 106.8211750",
+      "start_date": "2026-01-19T00:00:00+07:00",
+      "end_date": "2026-12-02T00:00:00+07:00"
+    },
+    {
       "id": "3719d138-0ed4-4d13-acc2-152aff1f4845",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -10,6 +32,72 @@
       "polyline": "-6.1479367 106.8050386",
       "start_date": "2025-01-31T00:00:00+07:00",
       "end_date": "2026-11-30T00:00:00+07:00"
+    },
+    {
+      "id": "26d12114-ae9f-4db2-8c2f-811ee18d3465",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-18/3.4, Jadwal: 08-12-2024 s/d 25-03-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/3.4",
+      "polyline": "-6.1740325 106.8093881",
+      "start_date": "2024-12-08T00:00:00+07:00",
+      "end_date": "2027-03-25T00:00:00+07:00"
+    },
+    {
+      "id": "ce77e52d-d479-4c2c-9389-7dafe60b8841",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-18/3.5, Jadwal: 17-09-2024 s/d 20-01-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/3.5",
+      "polyline": "-6.1729669 106.8091016",
+      "start_date": "2024-09-17T00:00:00+07:00",
+      "end_date": "2027-01-20T00:00:00+07:00"
+    },
+    {
+      "id": "6345d209-e536-4b55-a683-2c94ad4aadba",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-18/4A.0, Jadwal: 04-03-2026 s/d 30-06-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/4A.0",
+      "polyline": "-6.1739749 106.8066280",
+      "start_date": "2026-03-04T00:00:00+07:00",
+      "end_date": "2027-06-30T00:00:00+07:00"
+    },
+    {
+      "id": "24c7bf2a-c0f6-44ac-bed2-53e6adaa6af0",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-18/4B.0, Jadwal: 26-03-2026 s/d 24-06-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/4B.0",
+      "polyline": "-6.1737941 106.8066325",
+      "start_date": "2026-03-26T00:00:00+07:00",
+      "end_date": "2027-06-24T00:00:00+07:00"
+    },
+    {
+      "id": "cd6e08cb-ac6a-40c8-9e2f-32e3aaa62221",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open trafic, Lokasi: C-18/5A.7, Jadwal: 01-03-2025 s/d 16-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/5A.7",
+      "polyline": "-6.1730767 106.8063844",
+      "start_date": "2025-03-01T00:00:00+07:00",
+      "end_date": "2027-02-16T00:00:00+07:00"
+    },
+    {
+      "id": "fc6785a9-a84a-46ee-b7d7-96e6fa2ef7d9",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open trafic, Lokasi: C-18/5A.8, Jadwal: 18-03-2025 s/d 05-03-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/5A.8",
+      "polyline": "-6.1730846 106.8065429",
+      "start_date": "2025-03-18T00:00:00+07:00",
+      "end_date": "2027-03-05T00:00:00+07:00"
     },
     {
       "id": "3757db35-632b-4f29-a7df-9e295eab7f39",
@@ -32,28 +120,6 @@
       "polyline": "-6.1434063 106.8103245",
       "start_date": "2025-12-02T00:00:00+07:00",
       "end_date": "2026-12-21T00:00:00+07:00"
-    },
-    {
-      "id": "6ad3944c-50da-4d5e-b045-84957006a029",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: pekerjaan manhole, Lokasi: E-10/1.2, Jadwal: 16/02/2026 s/d 03-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 5",
-      "street": "E-10/1.2",
-      "polyline": "-6.1515330 106.8209330",
-      "start_date": "2026-02-16T00:00:00+07:00",
-      "end_date": "2026-12-03T00:00:00+07:00"
-    },
-    {
-      "id": "679d884c-83c8-4a34-9f06-d4c736842790",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: pekerjaan manhole, Lokasi: E-10/1.0, Jadwal: 19/01/2026 s/d 02-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 5",
-      "street": "E-10/1.0",
-      "polyline": "-6.1526360 106.8211750",
-      "start_date": "2026-01-19T00:00:00+07:00",
-      "end_date": "2026-12-02T00:00:00+07:00"
     },
     {
       "id": "7ff3a0de-82dc-4790-91af-1f1599d2de84",
@@ -122,6 +188,39 @@
       "end_date": "2027-04-10T00:00:00+07:00"
     },
     {
+      "id": "d276c4da-77ab-4e76-90d9-223a108374f8",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/5A.9, Jadwal: 27-06-2025 s/d 08-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/5A.9",
+      "polyline": "-6.1732730 106.8066930",
+      "start_date": "2025-06-27T00:00:00+07:00",
+      "end_date": "2027-05-08T00:00:00+07:00"
+    },
+    {
+      "id": "0e17085f-748e-4a18-99f4-86c160090afa",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/5A.10, Jadwal: 12-02-2025 s/d 11-06-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/5A.10",
+      "polyline": "-6.1732338 106.8068266",
+      "start_date": "2025-02-12T00:00:00+07:00",
+      "end_date": "2027-06-11T00:00:00+07:00"
+    },
+    {
+      "id": "61c5e315-1a53-4f8b-a45a-6f8280d4a063",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/6.0, Jadwal: 14-11-2025 s/d 09-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/6.0",
+      "polyline": "-6.1725767 106.8084364",
+      "start_date": "2025-11-14T00:00:00+07:00",
+      "end_date": "2027-07-09T00:00:00+07:00"
+    },
+    {
       "id": "2ed59012-6a2d-47bb-b020-184551f60951",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -153,6 +252,83 @@
       "polyline": "-6.1231769 106.8127503",
       "start_date": "2025-09-27T00:00:00+07:00",
       "end_date": "2027-04-30T00:00:00+07:00"
+    },
+    {
+      "id": "7536a619-f3b7-4a81-9e5b-0769cb515a07",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: chemical gouting, Lokasi: C-18/7.0, Jadwal: 15-01-2026 s/d 08-04-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/7.0",
+      "polyline": "-6.1682729 106.8105938",
+      "start_date": "2026-01-15T00:00:00+07:00",
+      "end_date": "2027-04-08T00:00:00+07:00"
+    },
+    {
+      "id": "3bb4926d-28c9-4243-a6cd-d97b6f5aaad9",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: chemical gouting, Lokasi: C-18/7.1, Jadwal: 09-01-2026 s/d 31-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/7.1",
+      "polyline": "-6.1687682 106.8106388",
+      "start_date": "2026-01-09T00:00:00+07:00",
+      "end_date": "2027-05-31T00:00:00+07:00"
+    },
+    {
+      "id": "902ab8ee-a323-4af2-bb13-28037495b633",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/7.2, Jadwal: 18-04-2026 s/d 07-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/7.2",
+      "polyline": "-6.1687247 106.8097111",
+      "start_date": "2026-04-18T00:00:00+07:00",
+      "end_date": "2027-07-07T00:00:00+07:00"
+    },
+    {
+      "id": "584300ab-aab7-4ee6-b063-bfb01304bcd3",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/7.3, Jadwal: 16-07-2026 s/d 30-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/7.3",
+      "polyline": "-6.1686924 106.8090357",
+      "start_date": "2026-07-16T00:00:00+07:00",
+      "end_date": "2027-07-30T00:00:00+07:00"
+    },
+    {
+      "id": "4fad536c-a603-44df-9bf5-cbc5085f0269",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/8.0, Jadwal: 13-07-2024 s/d 23-06-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-18/8.0",
+      "polyline": "-6.1687596 106.8083087",
+      "start_date": "2024-07-13T00:00:00+07:00",
+      "end_date": "2027-06-23T00:00:00+07:00"
+    },
+    {
+      "id": "d958f278-dd0d-4d8b-8b5a-80a8be69607e",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/1.5, Jadwal: 29-10-2024 s/d 23-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/1.5",
+      "polyline": "-6.1548333 106.8109619",
+      "start_date": "2024-10-29T00:00:00+07:00",
+      "end_date": "2026-12-23T00:00:00+07:00"
+    },
+    {
+      "id": "36b8c22a-8023-4d87-8576-9e3a2d831bc6",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: diversion chamber, Lokasi: C-19/2.0, Jadwal: 11-01-2026 s/d 25-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/2.0",
+      "polyline": "-6.1515424 106.8121671",
+      "start_date": "2026-01-11T00:00:00+07:00",
+      "end_date": "2027-05-25T00:00:00+07:00"
     },
     {
       "id": "250cddb4-b003-49e8-88cd-7b9f817acbb0",
@@ -188,6 +364,50 @@
       "end_date": "2026-12-14T00:00:00+07:00"
     },
     {
+      "id": "f9a7c8e8-08d7-4e35-a9da-1cd76ea424f5",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/2.1, Jadwal: 21-01-2026 s/d 12-04-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/2.1",
+      "polyline": "-6.1518306 106.8121402",
+      "start_date": "2026-01-21T00:00:00+07:00",
+      "end_date": "2027-04-12T00:00:00+07:00"
+    },
+    {
+      "id": "5c467cf3-0c63-4606-8bcd-b4fe216a5e54",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/2.2, Jadwal: 29-01-2026 s/d 16-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/2.2",
+      "polyline": "-6.1522031 106.8120868",
+      "start_date": "2026-01-29T00:00:00+07:00",
+      "end_date": "2027-02-16T00:00:00+07:00"
+    },
+    {
+      "id": "9ac3ec98-1879-49e2-8cc9-a56831770124",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/2.3, Jadwal: 23-09-2025 s/d 04-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/2.3",
+      "polyline": "-6.1526131 106.8118384",
+      "start_date": "2025-09-23T00:00:00+07:00",
+      "end_date": "2027-05-04T00:00:00+07:00"
+    },
+    {
+      "id": "5567fd4b-42df-4acb-8aff-8fa9e6cd688d",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/2.4, Jadwal: 05-08-2025 s/d 22-03-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/2.4",
+      "polyline": "-6.1529485 106.8116419",
+      "start_date": "2025-08-05T00:00:00+07:00",
+      "end_date": "2027-03-22T00:00:00+07:00"
+    },
+    {
       "id": "4b096018-1bce-4bcd-9095-2187def1b3ba",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -197,6 +417,61 @@
       "polyline": "-6.1290257 106.8114523",
       "start_date": "2025-06-30T00:00:00+07:00",
       "end_date": "2027-01-26T00:00:00+07:00"
+    },
+    {
+      "id": "76ad2952-80b0-40be-952f-ffec5fbed5c4",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/2.5, Jadwal: 25-06-2025 s/d 26-01-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/2.5",
+      "polyline": "-6.1533874 106.8115005",
+      "start_date": "2025-06-25T00:00:00+07:00",
+      "end_date": "2027-01-26T00:00:00+07:00"
+    },
+    {
+      "id": "25aae543-881b-4115-9d85-58ada570b7ac",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-19/3.0, Jadwal: 03-11-2025 s/d 05-10-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/3.0",
+      "polyline": "-6.1542700 106.8108800",
+      "start_date": "2025-11-03T00:00:00+07:00",
+      "end_date": "2027-10-05T00:00:00+07:00"
+    },
+    {
+      "id": "9c455d84-0f13-46c1-8ce6-a59ad151d2e2",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/3.1, Jadwal: 12-06-2025 s/d 12-10-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/3.1",
+      "polyline": "-6.1528300 106.8114300",
+      "start_date": "2025-06-12T00:00:00+07:00",
+      "end_date": "2027-10-12T00:00:00+07:00"
+    },
+    {
+      "id": "a97f21f2-7164-41cb-8fc0-a881168ee3b3",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-19/3.2, Jadwal: 01-12-2024 s/d 10-09-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/3.2",
+      "polyline": "-6.1515424 106.8119110",
+      "start_date": "2024-12-01T00:00:00+07:00",
+      "end_date": "2027-09-10T00:00:00+07:00"
+    },
+    {
+      "id": "3d059f9b-575e-4475-9ea6-6b3eb14ff282",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-19/3.3, Jadwal: 05-05-2025 s/d 12-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/3.3",
+      "polyline": "-6.1486350 106.8118105",
+      "start_date": "2025-05-05T00:00:00+07:00",
+      "end_date": "2026-12-12T00:00:00+07:00"
     },
     {
       "id": "19ec4f61-3d7e-49d6-b9f1-d1fdaf19186d",
@@ -252,6 +527,83 @@
       "polyline": "-6.1251800 106.8032687",
       "start_date": "2025-05-22T00:00:00+07:00",
       "end_date": "2027-04-19T00:00:00+07:00"
+    },
+    {
+      "id": "24ac600e-5a60-420e-9c80-560f90e1b8e9",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-19/4.0, Jadwal: 05-08-2025 s/d 27-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/4.0",
+      "polyline": "-6.1472561 106.8113235",
+      "start_date": "2025-08-05T00:00:00+07:00",
+      "end_date": "2027-08-27T00:00:00+07:00"
+    },
+    {
+      "id": "c0c9ffb2-c81b-48ac-a09b-bc651a5b1ff0",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/4.1, Jadwal: 29-09-2026 s/d 24-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/4.1",
+      "polyline": "-6.1476430 106.8096686",
+      "start_date": "2026-09-29T00:00:00+07:00",
+      "end_date": "2027-08-24T00:00:00+07:00"
+    },
+    {
+      "id": "5e855c2f-3ca5-429e-a723-56c872adc09d",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/3.1/1.0, Jadwal: 11-08-2026 s/d 16-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/3.1/1.0",
+      "polyline": "-6.1521374 106.8118166",
+      "start_date": "2026-08-11T00:00:00+07:00",
+      "end_date": "2027-08-16T00:00:00+07:00"
+    },
+    {
+      "id": "141bf0eb-71df-42e4-8ab0-f253d754fe38",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/3.1/1.1, Jadwal: 29-06-2026 s/d 12-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/3.1/1.1",
+      "polyline": "-6.1523482 106.8117126",
+      "start_date": "2026-06-29T00:00:00+07:00",
+      "end_date": "2027-08-12T00:00:00+07:00"
+    },
+    {
+      "id": "764a22da-c28b-4810-b4c9-cb5dc1ada29f",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: persiapan chemical grouting, Lokasi: C-19/3.1/1.2, Jadwal: 24-04-2026 s/d 15-09-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-19/3.1/1.2",
+      "polyline": "-6.1526804 106.8114939",
+      "start_date": "2026-04-24T00:00:00+07:00",
+      "end_date": "2027-09-15T00:00:00+07:00"
+    },
+    {
+      "id": "788f725f-a994-4290-a419-8e9f0a4fad3f",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: diversion chamber, Lokasi: C-20/1.0, Jadwal: 30-01-2026 s/d 08-04-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-20/1.0",
+      "polyline": "-6.1546409 106.8017147",
+      "start_date": "2026-01-30T00:00:00+07:00",
+      "end_date": "2027-04-08T00:00:00+07:00"
+    },
+    {
+      "id": "e39eb27e-aca4-407b-9550-0c24fdb9d44e",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-20/1.1, Jadwal: 10-04-2025 s/d 14-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-20/1.1",
+      "polyline": "-6.1538758 106.8016254",
+      "start_date": "2025-04-10T00:00:00+07:00",
+      "end_date": "2027-05-14T00:00:00+07:00"
     },
     {
       "id": "f8f86b24-d77b-480f-b0f3-202a75e49fd7",
@@ -386,6 +738,50 @@
       "end_date": "2027-04-30T00:00:00+07:00"
     },
     {
+      "id": "6243812d-e5d3-43ac-9a8b-5aca04d43808",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: open trafict, Lokasi: C-20/1.2, Jadwal: 23-02-2025 s/d 07-04-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-20/1.2",
+      "polyline": "-6.1526500 106.8015100",
+      "start_date": "2025-02-23T00:00:00+07:00",
+      "end_date": "2027-04-07T00:00:00+07:00"
+    },
+    {
+      "id": "c63486a0-d9cd-44c9-896a-c8db6062d655",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Menunggu Pipe Jacking, Lokasi: C-20/1.5, Jadwal: 05-10-2025 s/d 15-01-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-20/1.5",
+      "polyline": "-6.1494047 106.8012943",
+      "start_date": "2025-10-05T00:00:00+07:00",
+      "end_date": "2027-01-15T00:00:00+07:00"
+    },
+    {
+      "id": "b7059688-922a-487a-b2ed-05d2f4a7e8cb",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Menunggu Pipe Jacking, Lokasi: C-20/2.0, Jadwal: 06-08-2025 s/d 18-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-20/2.0",
+      "polyline": "-6.1483987 106.8012466",
+      "start_date": "2025-08-06T00:00:00+07:00",
+      "end_date": "2027-02-18T00:00:00+07:00"
+    },
+    {
+      "id": "84d0c285-750d-49d4-8d32-2f81b8922285",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Menunggu Pipe Jacking, Lokasi: C-20/2.1, Jadwal: 07-01-2025 s/d 02-03-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
+      "street": "C-20/2.1",
+      "polyline": "-6.1482451 106.8025367",
+      "start_date": "2025-01-07T00:00:00+07:00",
+      "end_date": "2027-03-02T00:00:00+07:00"
+    },
+    {
       "id": "8c84a63b-f327-4c73-ba93-efd2738c5aaf",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -452,402 +848,6 @@
       "end_date": "2027-01-19T00:00:00+07:00"
     },
     {
-      "id": "26d12114-ae9f-4db2-8c2f-811ee18d3465",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-18/3.4, Jadwal: 08-12-2024 s/d 25-03-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/3.4",
-      "polyline": "-6.1740325 106.8093881",
-      "start_date": "2024-12-08T00:00:00+07:00",
-      "end_date": "2027-03-25T00:00:00+07:00"
-    },
-    {
-      "id": "ce77e52d-d479-4c2c-9389-7dafe60b8841",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-18/3.5, Jadwal: 17-09-2024 s/d 20-01-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/3.5",
-      "polyline": "-6.1729669 106.8091016",
-      "start_date": "2024-09-17T00:00:00+07:00",
-      "end_date": "2027-01-20T00:00:00+07:00"
-    },
-    {
-      "id": "6345d209-e536-4b55-a683-2c94ad4aadba",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-18/4A.0, Jadwal: 04-03-2026 s/d 30-06-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/4A.0",
-      "polyline": "-6.1739749 106.8066280",
-      "start_date": "2026-03-04T00:00:00+07:00",
-      "end_date": "2027-06-30T00:00:00+07:00"
-    },
-    {
-      "id": "24c7bf2a-c0f6-44ac-bed2-53e6adaa6af0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-18/4B.0, Jadwal: 26-03-2026 s/d 24-06-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/4B.0",
-      "polyline": "-6.1737941 106.8066325",
-      "start_date": "2026-03-26T00:00:00+07:00",
-      "end_date": "2027-06-24T00:00:00+07:00"
-    },
-    {
-      "id": "cd6e08cb-ac6a-40c8-9e2f-32e3aaa62221",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open trafic, Lokasi: C-18/5A.7, Jadwal: 01-03-2025 s/d 16-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/5A.7",
-      "polyline": "-6.1730767 106.8063844",
-      "start_date": "2025-03-01T00:00:00+07:00",
-      "end_date": "2027-02-16T00:00:00+07:00"
-    },
-    {
-      "id": "fc6785a9-a84a-46ee-b7d7-96e6fa2ef7d9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open trafic, Lokasi: C-18/5A.8, Jadwal: 18-03-2025 s/d 05-03-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/5A.8",
-      "polyline": "-6.1730846 106.8065429",
-      "start_date": "2025-03-18T00:00:00+07:00",
-      "end_date": "2027-03-05T00:00:00+07:00"
-    },
-    {
-      "id": "d276c4da-77ab-4e76-90d9-223a108374f8",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/5A.9, Jadwal: 27-06-2025 s/d 08-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/5A.9",
-      "polyline": "-6.1732730 106.8066930",
-      "start_date": "2025-06-27T00:00:00+07:00",
-      "end_date": "2027-05-08T00:00:00+07:00"
-    },
-    {
-      "id": "0e17085f-748e-4a18-99f4-86c160090afa",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/5A.10, Jadwal: 12-02-2025 s/d 11-06-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/5A.10",
-      "polyline": "-6.1732338 106.8068266",
-      "start_date": "2025-02-12T00:00:00+07:00",
-      "end_date": "2027-06-11T00:00:00+07:00"
-    },
-    {
-      "id": "61c5e315-1a53-4f8b-a45a-6f8280d4a063",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/6.0, Jadwal: 14-11-2025 s/d 09-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/6.0",
-      "polyline": "-6.1725767 106.8084364",
-      "start_date": "2025-11-14T00:00:00+07:00",
-      "end_date": "2027-07-09T00:00:00+07:00"
-    },
-    {
-      "id": "7536a619-f3b7-4a81-9e5b-0769cb515a07",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: chemical gouting, Lokasi: C-18/7.0, Jadwal: 15-01-2026 s/d 08-04-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/7.0",
-      "polyline": "-6.1682729 106.8105938",
-      "start_date": "2026-01-15T00:00:00+07:00",
-      "end_date": "2027-04-08T00:00:00+07:00"
-    },
-    {
-      "id": "3bb4926d-28c9-4243-a6cd-d97b6f5aaad9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: chemical gouting, Lokasi: C-18/7.1, Jadwal: 09-01-2026 s/d 31-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/7.1",
-      "polyline": "-6.1687682 106.8106388",
-      "start_date": "2026-01-09T00:00:00+07:00",
-      "end_date": "2027-05-31T00:00:00+07:00"
-    },
-    {
-      "id": "902ab8ee-a323-4af2-bb13-28037495b633",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/7.2, Jadwal: 18-04-2026 s/d 07-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/7.2",
-      "polyline": "-6.1687247 106.8097111",
-      "start_date": "2026-04-18T00:00:00+07:00",
-      "end_date": "2027-07-07T00:00:00+07:00"
-    },
-    {
-      "id": "584300ab-aab7-4ee6-b063-bfb01304bcd3",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/7.3, Jadwal: 16-07-2026 s/d 30-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/7.3",
-      "polyline": "-6.1686924 106.8090357",
-      "start_date": "2026-07-16T00:00:00+07:00",
-      "end_date": "2027-07-30T00:00:00+07:00"
-    },
-    {
-      "id": "4fad536c-a603-44df-9bf5-cbc5085f0269",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-18/8.0, Jadwal: 13-07-2024 s/d 23-06-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-18/8.0",
-      "polyline": "-6.1687596 106.8083087",
-      "start_date": "2024-07-13T00:00:00+07:00",
-      "end_date": "2027-06-23T00:00:00+07:00"
-    },
-    {
-      "id": "d958f278-dd0d-4d8b-8b5a-80a8be69607e",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/1.5, Jadwal: 29-10-2024 s/d 23-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/1.5",
-      "polyline": "-6.1548333 106.8109619",
-      "start_date": "2024-10-29T00:00:00+07:00",
-      "end_date": "2026-12-23T00:00:00+07:00"
-    },
-    {
-      "id": "36b8c22a-8023-4d87-8576-9e3a2d831bc6",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: diversion chamber, Lokasi: C-19/2.0, Jadwal: 11-01-2026 s/d 25-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/2.0",
-      "polyline": "-6.1515424 106.8121671",
-      "start_date": "2026-01-11T00:00:00+07:00",
-      "end_date": "2027-05-25T00:00:00+07:00"
-    },
-    {
-      "id": "f9a7c8e8-08d7-4e35-a9da-1cd76ea424f5",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/2.1, Jadwal: 21-01-2026 s/d 12-04-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/2.1",
-      "polyline": "-6.1518306 106.8121402",
-      "start_date": "2026-01-21T00:00:00+07:00",
-      "end_date": "2027-04-12T00:00:00+07:00"
-    },
-    {
-      "id": "5c467cf3-0c63-4606-8bcd-b4fe216a5e54",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/2.2, Jadwal: 29-01-2026 s/d 16-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/2.2",
-      "polyline": "-6.1522031 106.8120868",
-      "start_date": "2026-01-29T00:00:00+07:00",
-      "end_date": "2027-02-16T00:00:00+07:00"
-    },
-    {
-      "id": "9ac3ec98-1879-49e2-8cc9-a56831770124",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/2.3, Jadwal: 23-09-2025 s/d 04-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/2.3",
-      "polyline": "-6.1526131 106.8118384",
-      "start_date": "2025-09-23T00:00:00+07:00",
-      "end_date": "2027-05-04T00:00:00+07:00"
-    },
-    {
-      "id": "5567fd4b-42df-4acb-8aff-8fa9e6cd688d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/2.4, Jadwal: 05-08-2025 s/d 22-03-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/2.4",
-      "polyline": "-6.1529485 106.8116419",
-      "start_date": "2025-08-05T00:00:00+07:00",
-      "end_date": "2027-03-22T00:00:00+07:00"
-    },
-    {
-      "id": "76ad2952-80b0-40be-952f-ffec5fbed5c4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/2.5, Jadwal: 25-06-2025 s/d 26-01-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/2.5",
-      "polyline": "-6.1533874 106.8115005",
-      "start_date": "2025-06-25T00:00:00+07:00",
-      "end_date": "2027-01-26T00:00:00+07:00"
-    },
-    {
-      "id": "25aae543-881b-4115-9d85-58ada570b7ac",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-19/3.0, Jadwal: 03-11-2025 s/d 05-10-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/3.0",
-      "polyline": "-6.1542700 106.8108800",
-      "start_date": "2025-11-03T00:00:00+07:00",
-      "end_date": "2027-10-05T00:00:00+07:00"
-    },
-    {
-      "id": "9c455d84-0f13-46c1-8ce6-a59ad151d2e2",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/3.1, Jadwal: 12-06-2025 s/d 12-10-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/3.1",
-      "polyline": "-6.1528300 106.8114300",
-      "start_date": "2025-06-12T00:00:00+07:00",
-      "end_date": "2027-10-12T00:00:00+07:00"
-    },
-    {
-      "id": "a97f21f2-7164-41cb-8fc0-a881168ee3b3",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-19/3.2, Jadwal: 01-12-2024 s/d 10-09-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/3.2",
-      "polyline": "-6.1515424 106.8119110",
-      "start_date": "2024-12-01T00:00:00+07:00",
-      "end_date": "2027-09-10T00:00:00+07:00"
-    },
-    {
-      "id": "3d059f9b-575e-4475-9ea6-6b3eb14ff282",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-19/3.3, Jadwal: 05-05-2025 s/d 12-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/3.3",
-      "polyline": "-6.1486350 106.8118105",
-      "start_date": "2025-05-05T00:00:00+07:00",
-      "end_date": "2026-12-12T00:00:00+07:00"
-    },
-    {
-      "id": "24ac600e-5a60-420e-9c80-560f90e1b8e9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: jacking pipa, Lokasi: C-19/4.0, Jadwal: 05-08-2025 s/d 27-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/4.0",
-      "polyline": "-6.1472561 106.8113235",
-      "start_date": "2025-08-05T00:00:00+07:00",
-      "end_date": "2027-08-27T00:00:00+07:00"
-    },
-    {
-      "id": "c0c9ffb2-c81b-48ac-a09b-bc651a5b1ff0",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/4.1, Jadwal: 29-09-2026 s/d 24-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/4.1",
-      "polyline": "-6.1476430 106.8096686",
-      "start_date": "2026-09-29T00:00:00+07:00",
-      "end_date": "2027-08-24T00:00:00+07:00"
-    },
-    {
-      "id": "5e855c2f-3ca5-429e-a723-56c872adc09d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/3.1/1.0, Jadwal: 11-08-2026 s/d 16-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/3.1/1.0",
-      "polyline": "-6.1521374 106.8118166",
-      "start_date": "2026-08-11T00:00:00+07:00",
-      "end_date": "2027-08-16T00:00:00+07:00"
-    },
-    {
-      "id": "141bf0eb-71df-42e4-8ab0-f253d754fe38",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-19/3.1/1.1, Jadwal: 29-06-2026 s/d 12-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/3.1/1.1",
-      "polyline": "-6.1523482 106.8117126",
-      "start_date": "2026-06-29T00:00:00+07:00",
-      "end_date": "2027-08-12T00:00:00+07:00"
-    },
-    {
-      "id": "764a22da-c28b-4810-b4c9-cb5dc1ada29f",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: persiapan chemical grouting, Lokasi: C-19/3.1/1.2, Jadwal: 24-04-2026 s/d 15-09-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-19/3.1/1.2",
-      "polyline": "-6.1526804 106.8114939",
-      "start_date": "2026-04-24T00:00:00+07:00",
-      "end_date": "2027-09-15T00:00:00+07:00"
-    },
-    {
-      "id": "788f725f-a994-4290-a419-8e9f0a4fad3f",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: diversion chamber, Lokasi: C-20/1.0, Jadwal: 30-01-2026 s/d 08-04-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-20/1.0",
-      "polyline": "-6.1546409 106.8017147",
-      "start_date": "2026-01-30T00:00:00+07:00",
-      "end_date": "2027-04-08T00:00:00+07:00"
-    },
-    {
-      "id": "e39eb27e-aca4-407b-9550-0c24fdb9d44e",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open traffic, Lokasi: C-20/1.1, Jadwal: 10-04-2025 s/d 14-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-20/1.1",
-      "polyline": "-6.1538758 106.8016254",
-      "start_date": "2025-04-10T00:00:00+07:00",
-      "end_date": "2027-05-14T00:00:00+07:00"
-    },
-    {
-      "id": "6243812d-e5d3-43ac-9a8b-5aca04d43808",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: open trafict, Lokasi: C-20/1.2, Jadwal: 23-02-2025 s/d 07-04-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-20/1.2",
-      "polyline": "-6.1526500 106.8015100",
-      "start_date": "2025-02-23T00:00:00+07:00",
-      "end_date": "2027-04-07T00:00:00+07:00"
-    },
-    {
-      "id": "c63486a0-d9cd-44c9-896a-c8db6062d655",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Menunggu Pipe Jacking, Lokasi: C-20/1.5, Jadwal: 05-10-2025 s/d 15-01-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-20/1.5",
-      "polyline": "-6.1494047 106.8012943",
-      "start_date": "2025-10-05T00:00:00+07:00",
-      "end_date": "2027-01-15T00:00:00+07:00"
-    },
-    {
-      "id": "b7059688-922a-487a-b2ed-05d2f4a7e8cb",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Menunggu Pipe Jacking, Lokasi: C-20/2.0, Jadwal: 06-08-2025 s/d 18-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-20/2.0",
-      "polyline": "-6.1483987 106.8012466",
-      "start_date": "2025-08-06T00:00:00+07:00",
-      "end_date": "2027-02-18T00:00:00+07:00"
-    },
-    {
-      "id": "84d0c285-750d-49d4-8d32-2f81b8922285",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Menunggu Pipe Jacking, Lokasi: C-20/2.1, Jadwal: 07-01-2025 s/d 02-03-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P3 - Zone 1",
-      "street": "C-20/2.1",
-      "polyline": "-6.1482451 106.8025367",
-      "start_date": "2025-01-07T00:00:00+07:00",
-      "end_date": "2027-03-02T00:00:00+07:00"
-    },
-    {
       "id": "e50c8dea-306e-49cc-96a6-98d06f459a59",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -857,6 +857,149 @@
       "polyline": "-6.1803420 106.8320290",
       "start_date": "2026-06-26T00:00:00+07:00",
       "end_date": "2026-12-26T00:00:00+07:00"
+    },
+    {
+      "id": "043c2318-e243-4d4b-9ad8-3d1ed272e038",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Pekerjaan Diversion Chamber dan Perkerasan Kembali, Lokasi: W-4/2.3, Jadwal: 07-06-2026 s/d 11-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 6",
+      "street": "W-4/2.3",
+      "polyline": "-6.1425250 106.7969540",
+      "start_date": "2026-06-07T00:00:00+07:00",
+      "end_date": "2026-12-11T00:00:00+07:00"
+    },
+    {
+      "id": "0e43bd2b-1415-4910-ba60-116e27ed34a9",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah  Kawasan Ancol, Jenis Pekerjaan: Boring Manual Pipa Air Limbah, Lokasi: Kawasan Ancol, Jadwal: 28-08-2026 s/d 31-12-2026, Dampak: Posisi Di dalam kawasan ancol, 6. Penanggung Jawab: Perumda PAL Jaya",
+      "street": "Kawasan Ancol",
+      "polyline": "-6.1250923 106.8384436",
+      "start_date": "2026-08-28T00:00:00+07:00",
+      "end_date": "2026-12-31T00:00:00+07:00"
+    },
+    {
+      "id": "cbe290f4-7bff-4146-8390-47d35200e078",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Open Traffic Road Decking, Lokasi: C-5.2, Jadwal: 07-03-2025 s/d 30-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-5.2",
+      "polyline": "-6.1956307 106.8207440",
+      "start_date": "2025-03-07T00:00:00+07:00",
+      "end_date": "2027-07-30T00:00:00+07:00"
+    },
+    {
+      "id": "8fd1a9ea-7ea8-4dc8-9135-2b2c3c1babe4",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Open Traffic Road Decking, Lokasi: C-5.3, Jadwal: 26-07-2025 s/d 15-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-5.3",
+      "polyline": "-6.1960840 106.8187850",
+      "start_date": "2025-07-26T00:00:00+07:00",
+      "end_date": "2027-05-15T00:00:00+07:00"
+    },
+    {
+      "id": "d5f96c11-a117-459e-8832-bab9a5ce3a39",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Open Traffic Road Decking, Lokasi: C-6.0, Jadwal: 01-10-2025 s/d 16-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-6.0",
+      "polyline": "-6.1942374 106.8188923",
+      "start_date": "2025-10-01T00:00:00+07:00",
+      "end_date": "2027-07-16T00:00:00+07:00"
+    },
+    {
+      "id": "b9a781df-1964-43eb-9ec4-3f3e31fcd728",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Open Traffic Road Decking, Lokasi: C-7.0A, Jadwal: 03-07-2025 s/d 16-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-7.0A",
+      "polyline": "-6.1942203 106.8182805",
+      "start_date": "2025-07-03T00:00:00+07:00",
+      "end_date": "2027-08-16T00:00:00+07:00"
+    },
+    {
+      "id": "a0260eb7-2818-484f-9855-7e84746188c5",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Open Traffic Road Decking, Lokasi: C-7.0, Jadwal: 10-10-2025 s/d 05-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-7.0",
+      "polyline": "-6.1941830 106.8180458",
+      "start_date": "2025-10-10T00:00:00+07:00",
+      "end_date": "2027-08-05T00:00:00+07:00"
+    },
+    {
+      "id": "952ca1c5-93a1-417d-9b84-4f87dc7e38d7",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Waiting Jacking D450, Lokasi: C-7/1.4, Jadwal: 17-02-2025 s/d 05-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-7/1.4",
+      "polyline": "-6.1945580 106.8180020",
+      "start_date": "2025-02-17T00:00:00+07:00",
+      "end_date": "2027-07-05T00:00:00+07:00"
+    },
+    {
+      "id": "b34b08bd-2879-480c-8d04-9836f71cfacc",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Foundation Concrete, Lokasi: C-7.1, Jadwal: 09-07-2025 s/d 05-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-7.1",
+      "polyline": "-6.1937500 106.8164190",
+      "start_date": "2025-07-09T00:00:00+07:00",
+      "end_date": "2027-05-05T00:00:00+07:00"
+    },
+    {
+      "id": "01b9dd1c-b80d-4048-aaa2-b894b73207bc",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Waiting Jacking D800, Lokasi: C-7.2, Jadwal: 30-07-2024 s/d 13-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-7.2",
+      "polyline": "-6.1930960 106.8147270",
+      "start_date": "2024-07-30T00:00:00+07:00",
+      "end_date": "2027-02-13T00:00:00+07:00"
+    },
+    {
+      "id": "7aaafcac-1e07-48f9-a78f-54a8405cb1a1",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Pipe Jacking  Work, Lokasi: C-8/2.0, Jadwal: 01-05-2025 s/d 25-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-8/2.0",
+      "polyline": "-6.1871100 106.8227380",
+      "start_date": "2025-05-01T00:00:00+07:00",
+      "end_date": "2027-02-25T00:00:00+07:00"
+    },
+    {
+      "id": "5bcbc9ef-0acd-4578-aad9-70583a7c5618",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Pipe Jacking  Work, Lokasi: C-8/2.1, Jadwal: 31-10-2024 s/d 25-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-8/2.1",
+      "polyline": "-6.1870530 106.8206396",
+      "start_date": "2024-10-31T00:00:00+07:00",
+      "end_date": "2027-02-25T00:00:00+07:00"
+    },
+    {
+      "id": "54806328-a87c-42cd-b17d-1440261c75df",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Pipe Jacking  Work, Lokasi: C-8/2.2, Jadwal: 02-11-2024 s/d 20-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
+      "street": "C-8/2.2",
+      "polyline": "-6.1871430 106.8183290",
+      "start_date": "2024-11-02T00:00:00+07:00",
+      "end_date": "2026-12-20T00:00:00+07:00"
     },
     {
       "id": "c9b31005-a018-4403-bfd3-fc8ef11aa7b9",
@@ -936,50 +1079,6 @@
       "end_date": "2029-12-30T00:00:00+07:00"
     },
     {
-      "id": "9b3bf64e-30bf-4b59-9f7f-de737cfcf24b",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pekerjaan Bak Chamber (On Going), Lokasi: Jl. Muara Baru, Jadwal: 07-07-2025 s/d 22-01-2027, Dampak: Potensi dampak terhadap arus lalu lintas, Pejalan Kaki atau akses lingkungan karena diperlukan penutupan jalan pada area pekerjaan, Penanggung Jawab: PAM Jaya",
-      "street": "Jl. Muara Baru",
-      "polyline": "-6.1192650 106.8048200",
-      "start_date": "2025-07-07T00:00:00+07:00",
-      "end_date": "2027-01-22T00:00:00+07:00"
-    },
-    {
-      "id": "043c2318-e243-4d4b-9ad8-3d1ed272e038",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pekerjaan Diversion Chamber dan Perkerasan Kembali, Lokasi: W-4/2.3, Jadwal: 07-06-2026 s/d 11-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 6",
-      "street": "W-4/2.3",
-      "polyline": "-6.1425250 106.7969540",
-      "start_date": "2026-06-07T00:00:00+07:00",
-      "end_date": "2026-12-11T00:00:00+07:00"
-    },
-    {
-      "id": "0e43bd2b-1415-4910-ba60-116e27ed34a9",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Nama Pekerjaan: Proyek Pemasangan Pipa Air Limbah  Kawasan Ancol, Jenis Pekerjaan: Boring Manual Pipa Air Limbah, Lokasi: Kawasan Ancol, Jadwal: 28-08-2026 s/d 31-12-2026, Dampak: Posisi Di dalam kawasan ancol, 6. Penanggung Jawab: Perumda PAL Jaya",
-      "street": "Kawasan Ancol",
-      "polyline": "-6.1250923 106.8384436",
-      "start_date": "2026-08-28T00:00:00+07:00",
-      "end_date": "2026-12-31T00:00:00+07:00"
-    },
-    {
-      "id": "4a8d9551-8e38-44fc-b3e1-54044b4a3fa4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pembangunan Sistem Drainase Perkotaan, Lokasi: Pembangunan Saluran Drainase Jalan Karang Tengah Raya Kecamatan Cilandak, Jadwal: 25 Maret 2026 s/d 19 Desember 2026, Dampak: Adanya rekayasa lalu lintas, pengaruh terhadap mobilitas pejalan kaki, dan akses keluar-masuk lingkungan di sekitar lokasi pekerjaan, Penanggung Jawab: Suku Dinas Sumber Daya Air Kota Adm Jakarta Selatan",
-      "street": "Pembangunan Saluran Drainase Jalan Karang Tengah Raya Kecamatan Cilandak",
-      "polyline": "-6.3006690 106.7801120",
-      "start_date": "2026-03-25T00:00:00+07:00",
-      "end_date": "2026-12-19T00:00:00+07:00"
-    },
-    {
       "id": "35e887d1-50e9-47be-aa58-d9cdaf89d81a",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -991,59 +1090,15 @@
       "end_date": "2026-12-30T00:00:00+07:00"
     },
     {
-      "id": "cbe290f4-7bff-4146-8390-47d35200e078",
+      "id": "9b3bf64e-30bf-4b59-9f7f-de737cfcf24b",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
       "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Open Traffic Road Decking, Lokasi: C-5.2, Jadwal: 07-03-2025 s/d 30-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-5.2",
-      "polyline": "-6.1956307 106.8207440",
-      "start_date": "2025-03-07T00:00:00+07:00",
-      "end_date": "2027-07-30T00:00:00+07:00"
-    },
-    {
-      "id": "8fd1a9ea-7ea8-4dc8-9135-2b2c3c1babe4",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Open Traffic Road Decking, Lokasi: C-5.3, Jadwal: 26-07-2025 s/d 15-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-5.3",
-      "polyline": "-6.1960840 106.8187850",
-      "start_date": "2025-07-26T00:00:00+07:00",
-      "end_date": "2027-05-15T00:00:00+07:00"
-    },
-    {
-      "id": "d5f96c11-a117-459e-8832-bab9a5ce3a39",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Open Traffic Road Decking, Lokasi: C-6.0, Jadwal: 01-10-2025 s/d 16-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-6.0",
-      "polyline": "-6.1942374 106.8188923",
-      "start_date": "2025-10-01T00:00:00+07:00",
-      "end_date": "2027-07-16T00:00:00+07:00"
-    },
-    {
-      "id": "b9a781df-1964-43eb-9ec4-3f3e31fcd728",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Open Traffic Road Decking, Lokasi: C-7.0A, Jadwal: 03-07-2025 s/d 16-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-7.0A",
-      "polyline": "-6.1942203 106.8182805",
-      "start_date": "2025-07-03T00:00:00+07:00",
-      "end_date": "2027-08-16T00:00:00+07:00"
-    },
-    {
-      "id": "a0260eb7-2818-484f-9855-7e84746188c5",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Open Traffic Road Decking, Lokasi: C-7.0, Jadwal: 10-10-2025 s/d 05-08-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-7.0",
-      "polyline": "-6.1941830 106.8180458",
-      "start_date": "2025-10-10T00:00:00+07:00",
-      "end_date": "2027-08-05T00:00:00+07:00"
+      "description": "Jenis Pekerjaan: Pekerjaan Bak Chamber (On Going), Lokasi: Jl. Muara Baru, Jadwal: 07-07-2025 s/d 22-01-2027, Dampak: Potensi dampak terhadap arus lalu lintas, Pejalan Kaki atau akses lingkungan karena diperlukan penutupan jalan pada area pekerjaan, Penanggung Jawab: PAM Jaya",
+      "street": "Jl. Muara Baru",
+      "polyline": "-6.1192650 106.8048200",
+      "start_date": "2025-07-07T00:00:00+07:00",
+      "end_date": "2027-01-22T00:00:00+07:00"
     },
     {
       "id": "d4a93ea9-6039-4adc-af2c-2b0792119bec",
@@ -1055,28 +1110,6 @@
       "polyline": "-6.2919521 106.8087275",
       "start_date": "2026-11-01T00:00:00+07:00",
       "end_date": "2026-12-31T00:00:00+07:00"
-    },
-    {
-      "id": "952ca1c5-93a1-417d-9b84-4f87dc7e38d7",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Waiting Jacking D450, Lokasi: C-7/1.4, Jadwal: 17-02-2025 s/d 05-07-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-7/1.4",
-      "polyline": "-6.1945580 106.8180020",
-      "start_date": "2025-02-17T00:00:00+07:00",
-      "end_date": "2027-07-05T00:00:00+07:00"
-    },
-    {
-      "id": "b34b08bd-2879-480c-8d04-9836f71cfacc",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Foundation Concrete, Lokasi: C-7.1, Jadwal: 09-07-2025 s/d 05-05-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-7.1",
-      "polyline": "-6.1937500 106.8164190",
-      "start_date": "2025-07-09T00:00:00+07:00",
-      "end_date": "2027-05-05T00:00:00+07:00"
     },
     {
       "id": "beb3653e-0aa9-4b87-b089-4dec55bc2d57",
@@ -1123,17 +1156,6 @@
       "end_date": "2027-03-30T00:00:00+07:00"
     },
     {
-      "id": "01b9dd1c-b80d-4048-aaa2-b894b73207bc",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Waiting Jacking D800, Lokasi: C-7.2, Jadwal: 30-07-2024 s/d 13-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-7.2",
-      "polyline": "-6.1930960 106.8147270",
-      "start_date": "2024-07-30T00:00:00+07:00",
-      "end_date": "2027-02-13T00:00:00+07:00"
-    },
-    {
       "id": "903bcfc4-6551-4708-b8fb-294b4eff8657",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
@@ -1154,17 +1176,6 @@
       "polyline": "-6.2121644 106.7972644",
       "start_date": "2026-10-01T00:00:00+07:00",
       "end_date": "2027-03-30T00:00:00+07:00"
-    },
-    {
-      "id": "7aaafcac-1e07-48f9-a78f-54a8405cb1a1",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pipe Jacking  Work, Lokasi: C-8/2.0, Jadwal: 01-05-2025 s/d 25-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-8/2.0",
-      "polyline": "-6.1871100 106.8227380",
-      "start_date": "2025-05-01T00:00:00+07:00",
-      "end_date": "2027-02-25T00:00:00+07:00"
     },
     {
       "id": "537d6281-c9a2-45c5-9de1-c2b6758fb030",
@@ -1200,48 +1211,15 @@
       "end_date": "2027-03-30T00:00:00+07:00"
     },
     {
-      "id": "5bcbc9ef-0acd-4578-aad9-70583a7c5618",
+      "id": "4a8d9551-8e38-44fc-b3e1-54044b4a3fa4",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
       "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pipe Jacking  Work, Lokasi: C-8/2.1, Jadwal: 31-10-2024 s/d 25-02-2027, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-8/2.1",
-      "polyline": "-6.1870530 106.8206396",
-      "start_date": "2024-10-31T00:00:00+07:00",
-      "end_date": "2027-02-25T00:00:00+07:00"
-    },
-    {
-      "id": "dd699b5e-0a25-4dde-9a4c-76f47efaa2b2",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Normalisasi Saluran Jacking, Lokasi: Pekerjaan Konstruksi PembangunanSaluran Jl. Raya PKP Segmen Taufik Hidayah Arena Menuju Kali Cipinang Kelurahan Kelapa Dua Wetan, CIbubur Kecamatan Ciracas, Jadwal: 02 Juli 2026 s/d 29-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Sudin SDA Jakarta Timur",
-      "street": "Pekerjaan Konstruksi PembangunanSaluran Jl. Raya PKP Segmen Taufik Hidayah Arena Menuju Kali Cipinang Kelurahan Kelapa Dua Wetan, CIbubur Kecamatan Ciracas",
-      "polyline": "-6.3404186 106.8756323",
-      "start_date": "2026-07-02T00:00:00+07:00",
-      "end_date": "2026-12-29T00:00:00+07:00"
-    },
-    {
-      "id": "54806328-a87c-42cd-b17d-1440261c75df",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pipe Jacking  Work, Lokasi: C-8/2.2, Jadwal: 02-11-2024 s/d 20-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Kementerian PU, JSDP P2 - Zone 1",
-      "street": "C-8/2.2",
-      "polyline": "-6.1871430 106.8183290",
-      "start_date": "2024-11-02T00:00:00+07:00",
-      "end_date": "2026-12-20T00:00:00+07:00"
-    },
-    {
-      "id": "cdb785d5-4455-44e0-a114-40c1d646d692",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pekerjaan Manhole dan Perkerasan Kembali, Lokasi: W-4.2, Jadwal: 23/09/2026 s/d 30/11/2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 6",
-      "street": "W-4.2",
-      "polyline": "-6.1395400 106.7930915",
-      "start_date": "2026-09-23T00:00:00+07:00",
-      "end_date": "2026-11-30T00:00:00+07:00"
+      "description": "Jenis Pekerjaan: Pembangunan Sistem Drainase Perkotaan, Lokasi: Pembangunan Saluran Drainase Jalan Karang Tengah Raya Kecamatan Cilandak, Jadwal: 25 Maret 2026 s/d 19 Desember 2026, Dampak: Adanya rekayasa lalu lintas, pengaruh terhadap mobilitas pejalan kaki, dan akses keluar-masuk lingkungan di sekitar lokasi pekerjaan, Penanggung Jawab: Suku Dinas Sumber Daya Air Kota Adm Jakarta Selatan",
+      "street": "Pembangunan Saluran Drainase Jalan Karang Tengah Raya Kecamatan Cilandak",
+      "polyline": "-6.3006690 106.7801120",
+      "start_date": "2026-03-25T00:00:00+07:00",
+      "end_date": "2026-12-19T00:00:00+07:00"
     },
     {
       "id": "6e7a32b1-f154-4264-963a-2307692c313c",
@@ -1299,26 +1277,15 @@
       "end_date": "2026-12-14T00:00:00+07:00"
     },
     {
-      "id": "8e8add70-5b09-47f0-9a09-479b1d58fbba",
+      "id": "dd699b5e-0a25-4dde-9a4c-76f47efaa2b2",
       "type": "HAZARD",
       "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
       "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pembangunan/Peningkatan Trotoar dan Bangunan Pelengkap Jalan di Provinsi DKI Jakarta (Pekerjaan Trotoar dan Saluran di Jalan Ciledug Raya sisi Utara dan Sekitarnya), Lokasi: Jalan Ciledug Raya sisi Utara dan Sekitarnya, Jadwal: 07-08-2026 s/d 27-11-2026, Dampak: Berpotensi menimbulkan kemacetan lalu lintas dan gangguan terhadap pejalan kaki, Penanggung Jawab: Dinas Bina Marga Provinsi DKI Jakarta, Bidang Kelengkapan Jalan",
-      "street": "Jalan Ciledug Raya sisi Utara dan Sekitarnya",
-      "polyline": "-6.2363830 106.7442940",
-      "start_date": "2026-08-07T00:00:00+07:00",
-      "end_date": "2026-11-27T00:00:00+07:00"
-    },
-    {
-      "id": "52fb0601-4f27-4cd3-b919-22bf185a685d",
-      "type": "HAZARD",
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "direction": "BOTH_DIRECTIONS",
-      "description": "Jenis Pekerjaan: Pembangunan/Peningkatan Trotoar dan Bangunan Pelengkap Jalan di Provinsi DKI Jakarta (Pekerjaan Trotoar dan Saluran di Jalan Lauser dan Sekitarnya), Lokasi: Jalan Lauser dan Sekitarnya, Jadwal: 07-08-2026 s/d 27-11-2026, Dampak: Berpotensi menimbulkan kemacetan lalu lintas dan gangguan terhadap pejalan kaki, Penanggung Jawab: Dinas Bina Marga Provinsi DKI Jakarta, Bidang Kelengkapan Jalan",
-      "street": "Jalan Lauser dan Sekitarnya",
-      "polyline": "-6.2414180 106.7920990",
-      "start_date": "2026-08-07T00:00:00+07:00",
-      "end_date": "2026-11-27T00:00:00+07:00"
+      "description": "Jenis Pekerjaan: Normalisasi Saluran Jacking, Lokasi: Pekerjaan Konstruksi PembangunanSaluran Jl. Raya PKP Segmen Taufik Hidayah Arena Menuju Kali Cipinang Kelurahan Kelapa Dua Wetan, CIbubur Kecamatan Ciracas, Jadwal: 02 Juli 2026 s/d 29-12-2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Sudin SDA Jakarta Timur",
+      "street": "Pekerjaan Konstruksi PembangunanSaluran Jl. Raya PKP Segmen Taufik Hidayah Arena Menuju Kali Cipinang Kelurahan Kelapa Dua Wetan, CIbubur Kecamatan Ciracas",
+      "polyline": "-6.3404186 106.8756323",
+      "start_date": "2026-07-02T00:00:00+07:00",
+      "end_date": "2026-12-29T00:00:00+07:00"
     },
     {
       "id": "02648647-a043-43a1-a6b4-53633523a89b",
@@ -1341,6 +1308,17 @@
       "polyline": "-6.1079244 106.9228508",
       "start_date": "2026-08-07T00:00:00+07:00",
       "end_date": "2026-12-04T00:00:00+07:00"
+    },
+    {
+      "id": "cdb785d5-4455-44e0-a114-40c1d646d692",
+      "type": "HAZARD",
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "direction": "BOTH_DIRECTIONS",
+      "description": "Jenis Pekerjaan: Pekerjaan Manhole dan Perkerasan Kembali, Lokasi: W-4.2, Jadwal: 23/09/2026 s/d 30/11/2026, Dampak: Dampak hambatan terhadap lalu lintas kendaraan, pejalan kaki dan akses lingkungan, Penanggung Jawab: Dinas Sumber Daya Air, JSDP Paket 6",
+      "street": "W-4.2",
+      "polyline": "-6.1395400 106.7930915",
+      "start_date": "2026-09-23T00:00:00+07:00",
+      "end_date": "2026-11-30T00:00:00+07:00"
     },
     {
       "id": "fe6d5939-3ce3-404f-b081-1b663dd07fbc",
